@@ -1,0 +1,17 @@
+{
+  "name": "nuvemshop-meta-feed-mcdbrasil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gerador de feed XML da Meta a partir da API da Nuvemshop",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "he": "^1.2.0"
+  }
+}

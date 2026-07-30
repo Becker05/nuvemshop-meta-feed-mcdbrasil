@@ -1,0 +1,48 @@
+name: Generate Meta Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate XML feed
+        env:
+          NUVEMSHOP_STORE_ID: ${{ secrets.NUVEMSHOP_STORE_ID }}
+          NUVEMSHOP_ACCESS_TOKEN: ${{ secrets.NUVEMSHOP_ACCESS_TOKEN }}
+          NUVEMSHOP_USER_AGENT: ${{ secrets.NUVEMSHOP_USER_AGENT }}
+          STORE_NAME: ${{ secrets.STORE_NAME }}
+          STORE_URL: ${{ secrets.STORE_URL }}
+          DEFAULT_BRAND: ${{ secrets.DEFAULT_BRAND }}
+          PRODUCT_URL_PATH: ${{ secrets.PRODUCT_URL_PATH }}
+          CUSTOM_DESCRIPTION_TRIGGER_REGEX: ${{ secrets.CUSTOM_DESCRIPTION_TRIGGER_REGEX }}
+          CUSTOM_DESCRIPTION_TEXT: ${{ secrets.CUSTOM_DESCRIPTION_TEXT }}
+          CURRENCY: BRL
+          PAGE_SIZE: 200
+        run: npm run generate
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/feed-meta.xml
+          git diff --cached --quiet || git commit -m "chore: update meta product feed"
+          git push
