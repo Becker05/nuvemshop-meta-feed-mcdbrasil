@@ -124,6 +124,7 @@ function getAdditionalImageLinks(product, variant, mainImage) {
 }
 
 const SIZE_ATTRIBUTE_REGEX = /tamanho|tamaño|talla|talle|\bsize\b/i;
+const COLOR_ATTRIBUTE_REGEX = /\bcor\b|\bcolou?r\b/i;
 
 function getAttributeLocalizedStrings(attr) {
   if (!attr) return [];
@@ -132,17 +133,30 @@ function getAttributeLocalizedStrings(attr) {
   return [];
 }
 
-function findSizeAttributeIndex(product) {
+function findAttributeIndex(product, regex) {
   if (!Array.isArray(product?.attributes)) return -1;
   return product.attributes.findIndex((attr) =>
-    getAttributeLocalizedStrings(attr).some((str) => SIZE_ATTRIBUTE_REGEX.test(str))
+    getAttributeLocalizedStrings(attr).some((str) => regex.test(str))
   );
 }
 
-function getVariantSize(product, variant) {
-  const index = findSizeAttributeIndex(product);
+function getVariantAttributeValue(product, variant, regex) {
+  const index = findAttributeIndex(product, regex);
   if (index === -1 || !Array.isArray(variant?.values)) return null;
   return getLocalizedValue(variant.values[index]) || null;
+}
+
+function getVariantSize(product, variant) {
+  return getVariantAttributeValue(product, variant, SIZE_ATTRIBUTE_REGEX);
+}
+
+function getVariantColor(product, variant) {
+  return getVariantAttributeValue(product, variant, COLOR_ATTRIBUTE_REGEX);
+}
+
+function getVariantGtin(variant) {
+  const barcode = String(variant?.barcode || "").trim();
+  return barcode || null;
 }
 
 function buildVariantTitle(productName, variant) {
@@ -239,6 +253,7 @@ function mapSimpleProduct(product, baseItem) {
     additionalImageLinks,
     brand: baseItem.brand,
     itemGroupId: null,
+    identifierExists: "no",
     productTypes: baseItem.productTypes
   };
 }
@@ -252,6 +267,7 @@ function mapVariantProduct(product, baseItem, variant) {
   if (!imageLink || !price) return null;
 
   const variantId = firstDefined(variant.id, variant.variant_id);
+  const gtin = getVariantGtin(variant);
 
   return {
     id: String(variantId ?? `${product.id}-variant`),
@@ -260,6 +276,9 @@ function mapVariantProduct(product, baseItem, variant) {
     availability: normalizeAvailability(stock),
     quantity: Number(stock) || 0,
     size: getVariantSize(product, variant),
+    color: getVariantColor(product, variant),
+    gtin,
+    identifierExists: gtin ? null : "no",
     condition: baseItem.condition,
     price,
     salePrice: variant.promotional_price ? normalizePrice(variant.promotional_price) : null,
