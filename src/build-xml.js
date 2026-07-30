@@ -31,6 +31,9 @@ function itemToXml(item) {
       <g:brand>${escapeXml(item.brand || "")}</g:brand>
       ${item.itemGroupId ? `<g:item_group_id>${escapeXml(item.itemGroupId)}</g:item_group_id>` : ""}
       ${item.size ? `<g:size>${escapeXml(item.size)}</g:size>` : ""}
+      ${item.color ? `<g:color>${escapeXml(item.color)}</g:color>` : ""}
+      ${item.gtin ? `<g:gtin>${escapeXml(item.gtin)}</g:gtin>` : ""}
+      ${item.identifierExists ? `<g:identifier_exists>${escapeXml(item.identifierExists)}</g:identifier_exists>` : ""}
       ${productTypeLines}
     </item>
   `.trim();
