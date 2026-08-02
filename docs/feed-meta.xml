@@ -951,8 +951,7 @@
       <g:item_group_id>357056833</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -971,8 +970,7 @@
       <g:item_group_id>357056833</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -991,8 +989,7 @@
       <g:item_group_id>357056833</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -1011,8 +1008,7 @@
       <g:item_group_id>357056833</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -7030,8 +7026,6 @@
       <g:item_group_id>357110970</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7050,8 +7044,6 @@
       <g:item_group_id>357110970</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7070,8 +7062,6 @@
       <g:item_group_id>357110970</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7090,8 +7080,6 @@
       <g:item_group_id>357110970</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7110,8 +7098,6 @@
       <g:item_group_id>357111023</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7130,8 +7116,6 @@
       <g:item_group_id>357111023</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7150,8 +7134,6 @@
       <g:item_group_id>357111023</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -7170,8 +7152,6 @@
       <g:item_group_id>357111023</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
     </item>
@@ -11293,11 +11273,9 @@
       <g:item_group_id>357138301</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937320</g:id>
@@ -11314,11 +11292,9 @@
       <g:item_group_id>357138301</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937340</g:id>
@@ -11335,11 +11311,9 @@
       <g:item_group_id>357138301</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937349</g:id>
@@ -11356,11 +11330,9 @@
       <g:item_group_id>357138301</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937835</g:id>
@@ -11825,11 +11797,9 @@
       <g:item_group_id>357144695</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563957553</g:id>
@@ -11846,11 +11816,9 @@
       <g:item_group_id>357144695</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563957558</g:id>
@@ -11867,11 +11835,9 @@
       <g:item_group_id>357144695</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563957566</g:id>
@@ -11888,11 +11854,9 @@
       <g:item_group_id>357144695</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563967438</g:id>
@@ -15715,7 +15679,7 @@
       <g:item_group_id>357170498</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Oversize</g:product_type>
     </item>
     <item>
       <g:id>1564031441</g:id>
@@ -15732,7 +15696,7 @@
       <g:item_group_id>357170498</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Oversize</g:product_type>
     </item>
     <item>
       <g:id>1564031444</g:id>
@@ -15749,7 +15713,7 @@
       <g:item_group_id>357170498</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Oversize</g:product_type>
     </item>
     <item>
       <g:id>1564031448</g:id>
@@ -15766,7 +15730,7 @@
       <g:item_group_id>357170498</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
+      <g:product_type>Oversize</g:product_type>
     </item>
     <item>
       <g:id>1564060893</g:id>
@@ -16400,8 +16364,8 @@
       <g:id>1564071866</g:id>
       <g:title>Kit Cueca Mcd Classic Branco-Preto (P / Branco-Preto)</g:title>
       <g:description>Ref.: 11115301-BBP Especificações do produto: · Elástico microfibra. · Toque acetinado, leve e macio.. Composição: 96% algodão, 4% elastano. LINHA LOGOMANIA MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design voltados para o lado institucional da marca.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>66.78 BRL</g:price>
       
@@ -21799,11 +21763,9 @@
       <g:item_group_id>357253372</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564320861</g:id>
@@ -21820,11 +21782,9 @@
       <g:item_group_id>357253372</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564320894</g:id>
@@ -21841,11 +21801,9 @@
       <g:item_group_id>357253372</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564320906</g:id>
@@ -21862,11 +21820,9 @@
       <g:item_group_id>357253372</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321250</g:id>
@@ -21883,11 +21839,9 @@
       <g:item_group_id>357253579</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321276</g:id>
@@ -21904,11 +21858,9 @@
       <g:item_group_id>357253579</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321299</g:id>
@@ -21925,11 +21877,9 @@
       <g:item_group_id>357253579</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321311</g:id>
@@ -21946,11 +21896,9 @@
       <g:item_group_id>357253579</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564324074</g:id>
@@ -23202,8 +23150,7 @@
       <g:item_group_id>357271222</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23222,8 +23169,7 @@
       <g:item_group_id>357271222</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23242,8 +23188,7 @@
       <g:item_group_id>357271222</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23262,8 +23207,7 @@
       <g:item_group_id>357271222</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23282,8 +23226,7 @@
       <g:item_group_id>357271322</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23302,8 +23245,7 @@
       <g:item_group_id>357271322</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23322,8 +23264,7 @@
       <g:item_group_id>357271322</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -23342,8 +23283,7 @@
       <g:item_group_id>357271322</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>T-Shirts</g:product_type>
+      <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
@@ -26249,7 +26189,7 @@
       <g:title>Moletom Canguru Fechado More Core Preto (M / Preto)</g:title>
       <g:description>Ref.: 12613606-PPP Linha Logomania. Especificações do produto: Modelagem Canguru fechado. · Estampa frontal more core division. · Etiqueta vertical more core na lateral. · Estampa More core deslocadas nas costas. · Bolso canguru. · Capuz com ajustador em cadarço. · Capuz forrado · Punho e barra em ribana. · Reforço de gola. · Etiqueta MCD no capuz. · Tag personalizado MCD. Composição: 67% Algodão 33% Poliéster. WINTER 26 [ TEMPUS | LOGOMANIA ] MCD. MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design inspirados em momentos atuais.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>539.00 BRL</g:price>
       
@@ -28218,7 +28158,7 @@
       <g:title>Calça Cargo Castanho (38 / Castanho Mostruário)</g:title>
       <g:description>Ref.: 12414604-CAS Especificações do produto: · Modelagem cargo. · Sarja estonada. · Bolsos frontais e bolsos traseiros embutidos. · Fechamento em zíper e botão. · Cós com passantes para cinto e reguladores com botões. · Barras com cordão regulador. · Bolsos Cargo laterais. · Caveira MCD metalizada na lateral. Composição: 100% algodão. LINHA LOGOMANIA Uma linha que traz a identidade MCD trabalhada em diversas formas e versões de logos, tipografias e design voltados para o institucional da marca. Linha que explora técnicas únicas e tecidos diferenciados, destacando o CORE da marca.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>579.00 BRL</g:price>
       
@@ -31131,8 +31071,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31152,8 +31090,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31173,8 +31109,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31194,8 +31128,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31215,8 +31147,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31236,8 +31166,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31257,8 +31185,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -31278,8 +31204,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Polo</g:product_type>
-      <g:product_type>Blusas</g:product_type>
-      <g:product_type>Tricot</g:product_type>
       <g:product_type>Outlet</g:product_type>
     </item>
     <item>
@@ -40056,9 +39980,8 @@
       <g:item_group_id>357449205</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40077,9 +40000,8 @@
       <g:item_group_id>357449205</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40098,9 +40020,8 @@
       <g:item_group_id>357449205</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40119,9 +40040,8 @@
       <g:item_group_id>357449205</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
-      <g:product_type>Bermudas</g:product_type>
-      <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
