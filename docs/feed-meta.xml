@@ -930,6 +930,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -948,6 +949,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -966,6 +968,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -984,6 +987,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -1387,7 +1391,7 @@
       <g:title>T-Shirt Regular More Core Desfocado Bege Poeira (P / Bege Poeira)</g:title>
       <g:description>Ref.: 12622843-BGP Especificações do produto: · Linha Logomania. · Modelagem regular. · Estampa MCD More Core Division em relevo localizada no peito. · Reforço de gola. · Etiqueta bandeira embutida na lateral. · Estampa costas More Core Division. · Tag personalizado MCD. Composição: 100% Algodão. SUMMER 25/26 [ COLAPSO | LOGOMANIA ] MCD. MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design inspirados em momentos atuais.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>30</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>29</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -3244,6 +3248,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -3263,6 +3268,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -3282,6 +3288,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -3301,6 +3308,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -3320,6 +3328,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -3339,6 +3348,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -4765,6 +4775,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -4785,6 +4796,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -4805,6 +4817,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -4825,6 +4838,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -5023,6 +5037,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563776814</g:id>
@@ -5041,6 +5056,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563776862</g:id>
@@ -5059,6 +5075,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563776885</g:id>
@@ -5077,6 +5094,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563776918</g:id>
@@ -5095,6 +5113,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563776936</g:id>
@@ -5113,6 +5132,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563777330</g:id>
@@ -5154,8 +5174,8 @@
       <g:id>1563777389</g:id>
       <g:title>Calça Sarja Loose Carpenter Preto (42 / Preto)</g:title>
       <g:description>Ref.: 12514607-PPP Especificações do produto: · Modelagem steady. · Botão flexível + passantes. · Bolso relógio + rebite chupeta. · Bolso rebatido + rebite caveira. · Bolsos traseiros. · Zíper de metal 18 cm niquelado. · Viés de acabamento interno. · Etiqueta retangular centralizada na costura lateral. · Tag personalizado MCD. Composição: 98% Algodão. 2% Elastano.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>479.00 BRL</g:price>
       
@@ -5172,8 +5192,8 @@
       <g:id>1563777407</g:id>
       <g:title>Calça Sarja Loose Carpenter Preto (44 / Preto)</g:title>
       <g:description>Ref.: 12514607-PPP Especificações do produto: · Modelagem steady. · Botão flexível + passantes. · Bolso relógio + rebite chupeta. · Bolso rebatido + rebite caveira. · Bolsos traseiros. · Zíper de metal 18 cm niquelado. · Viés de acabamento interno. · Etiqueta retangular centralizada na costura lateral. · Tag personalizado MCD. Composição: 98% Algodão. 2% Elastano.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>479.00 BRL</g:price>
       
@@ -5239,6 +5259,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563777836</g:id>
@@ -5257,13 +5278,14 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563777865</g:id>
       <g:title>Calça Sarja Loose Carpenter Verde Militar (42 / Verde Militar Inv25/Most Ve26)</g:title>
       <g:description>Ref.: 12514607-VMT Especificações do produto: · Modelagem steady. · Botão flexível + passantes. · Bolso relógio + rebite chupeta. · Bolso rebatido + rebite caveira. · Bolsos traseiros. · Zíper de metal 18 cm niquelado. · Viés de acabamento interno. · Etiqueta retangular centralizada na costura lateral. · Tag personalizado MCD. Composição: 98% Algodão. 2% Elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>31</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>30</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>479.00 BRL</g:price>
       
@@ -5275,6 +5297,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563777897</g:id>
@@ -5293,6 +5316,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563777918</g:id>
@@ -5311,6 +5335,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563777941</g:id>
@@ -5329,6 +5354,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563778257</g:id>
@@ -5771,6 +5797,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563793372</g:id>
@@ -5789,13 +5816,14 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563793397</g:id>
       <g:title>Boardshort Espadas Chumbo (42 / Chumbo Mostruário)</g:title>
       <g:description>Ref.: 12514101-CHB Especificações do produto: · Linha Caligraffiti. · Modelagem boardshort 20,5. · Etiqueta bandeira emborrachada no cos. · Estampa fullprint logo MCD. · Ilhós personalizado espada. · Cadarço ajustador liso. · Etiqueta pipa emborrachada na lateral da barra. · Bolso traseiro embutido com fecho em zíper. · Etiqueta bandeira morecore embutida na parte superior do bolso. Composição: 90% Poliéster. 10% Elastano. WINTER 25 [ APOCALYPSE | CALIGRAFFITI ] MCD. Herança da raiz californiana da MCD, uma linha que sempre está presente nas coleções, dessa vez com uma inspiração em tipografias de bandas de metal e estética gótica.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -5807,6 +5835,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563793412</g:id>
@@ -5825,6 +5854,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563793444</g:id>
@@ -5843,6 +5873,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563793458</g:id>
@@ -5861,6 +5892,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563797121</g:id>
@@ -6653,8 +6685,8 @@
       <g:id>1563824425</g:id>
       <g:title>Exclusiva Shorts Utility Core Cinza Claro (M / Cinza Claro Inv25/Ve26)</g:title>
       <g:description>Ref.: 12526013-C10 Especificações do produto: · Modelagem Short utility. · Bolsos fole aplicados nas laterais centralizadas na costura. · Etiqueta MCD aplicada sobre a lapela do bolso. · Fita em gorgurão aplicada internamente na parte frontal. · Ilhós personalizado MCD. · Forro do bolso. · Silk zero toque localizado na lateral core is about. · Elástico interno repontado na parte inferior/superior do cós. · Tag personalizado MCD. Composição: 92% Poliéster 8% elastano. SUMMER 24/25 [ TROPICAL GOTH | LOGOMANIA ] MCD. A linha Logomania traz MCD em primeiro plano, com uma coleção que celebra todas as versões do logotipo, com tipografias e designs que reforçam a essência e a identidade da marca.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>389.00 BRL</g:price>
       
@@ -7040,6 +7072,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563841736</g:id>
@@ -7059,6 +7092,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563841748</g:id>
@@ -7078,6 +7112,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563841759</g:id>
@@ -7097,6 +7132,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563841767</g:id>
@@ -7116,6 +7152,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563841777</g:id>
@@ -7135,6 +7172,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842022</g:id>
@@ -7154,6 +7192,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842074</g:id>
@@ -7173,6 +7212,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842085</g:id>
@@ -7192,6 +7232,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842101</g:id>
@@ -7211,6 +7252,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842115</g:id>
@@ -7230,6 +7272,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842140</g:id>
@@ -7249,6 +7292,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563842824</g:id>
@@ -7266,6 +7310,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -7284,6 +7329,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -7302,6 +7348,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -7320,6 +7367,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -7411,6 +7459,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563844359</g:id>
@@ -7429,6 +7478,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563844384</g:id>
@@ -7447,6 +7497,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563844403</g:id>
@@ -7465,6 +7516,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845030</g:id>
@@ -7483,6 +7535,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845054</g:id>
@@ -7501,6 +7554,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845073</g:id>
@@ -7519,6 +7573,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845108</g:id>
@@ -7537,6 +7592,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845281</g:id>
@@ -7555,6 +7611,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845309</g:id>
@@ -7573,6 +7630,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845338</g:id>
@@ -7591,6 +7649,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563845366</g:id>
@@ -7609,6 +7668,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563847031</g:id>
@@ -7923,6 +7983,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563851123</g:id>
@@ -7941,6 +8002,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563851139</g:id>
@@ -7959,6 +8021,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563851154</g:id>
@@ -7977,6 +8040,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563855073</g:id>
@@ -9142,6 +9206,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9161,6 +9226,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9180,6 +9246,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9199,6 +9266,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9218,6 +9286,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9237,6 +9306,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9256,6 +9326,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9275,6 +9346,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9294,6 +9366,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9313,6 +9386,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9332,6 +9406,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9351,6 +9426,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -9526,6 +9602,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -9544,6 +9621,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -9562,6 +9640,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -9580,6 +9659,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -9887,6 +9967,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563887078</g:id>
@@ -9905,6 +9986,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563887090</g:id>
@@ -9923,6 +10005,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563887101</g:id>
@@ -9941,6 +10024,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563887112</g:id>
@@ -9959,6 +10043,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563887144</g:id>
@@ -9977,6 +10062,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563892988</g:id>
@@ -11728,6 +11814,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -11746,6 +11833,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -11764,6 +11852,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -11782,6 +11871,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12028,6 +12118,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12046,6 +12137,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12064,6 +12156,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12082,6 +12175,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12956,6 +13050,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12974,6 +13069,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -12992,6 +13088,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13010,6 +13107,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13591,6 +13689,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13609,6 +13708,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13627,6 +13727,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13645,6 +13746,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13663,6 +13765,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13681,6 +13784,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13699,6 +13803,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -13717,6 +13822,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -14519,6 +14625,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -14538,6 +14645,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -14557,6 +14665,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -14576,6 +14685,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -14595,6 +14705,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -14614,6 +14725,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -14934,6 +15046,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563995459</g:id>
@@ -14951,6 +15064,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563995464</g:id>
@@ -14968,6 +15082,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563995471</g:id>
@@ -14985,6 +15100,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563996297</g:id>
@@ -15222,6 +15338,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997275</g:id>
@@ -15239,6 +15356,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997278</g:id>
@@ -15256,6 +15374,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997279</g:id>
@@ -15273,6 +15392,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997304</g:id>
@@ -15290,6 +15410,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997306</g:id>
@@ -15307,6 +15428,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997309</g:id>
@@ -15324,6 +15446,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997314</g:id>
@@ -15341,6 +15464,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997377</g:id>
@@ -15358,6 +15482,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997378</g:id>
@@ -15375,6 +15500,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997380</g:id>
@@ -15392,6 +15518,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997382</g:id>
@@ -15409,6 +15536,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1563997414</g:id>
@@ -15472,7 +15600,7 @@
       <g:title>T-Shirt Especial Division Bege (GG / Bege)</g:title>
       <g:description>Ref.: 12612009-KK1 Linha Caligraffiti . Especificações do produto: · Modelagem regular. · Estampa frontal more core no peito. · Etiqueta caveira + core is about abaixo da gola. · Reforço de gola. · Tag personalizado MCD. Composição: 100% Algodão. WINTER 26 [ TEMPUS | CALIGRAFFITI ] MCD. Herança da raiz californiana da MCD, uma linha forte que sempre está presente nas coleções. A união do tempo através da caligrafia ancestral e a contemporânea, das paredes das civilizações antigas aos muros e telas atuais.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>219.00 BRL</g:price>
       
@@ -15979,6 +16107,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -15999,6 +16128,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -16019,6 +16149,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -16039,6 +16170,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -16059,6 +16191,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -16079,6 +16212,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -16337,6 +16471,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -16356,6 +16491,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -16375,6 +16511,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -16394,6 +16531,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -16413,6 +16551,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -16432,6 +16571,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -17391,6 +17531,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564011155</g:id>
@@ -17409,6 +17550,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564011160</g:id>
@@ -17427,6 +17569,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564011170</g:id>
@@ -17445,6 +17588,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564011173</g:id>
@@ -17463,6 +17607,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564011176</g:id>
@@ -17481,6 +17626,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564011219</g:id>
@@ -17606,6 +17752,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -17624,6 +17771,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -17642,6 +17790,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -17660,6 +17809,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -17906,6 +18056,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564012977</g:id>
@@ -17923,6 +18074,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564012983</g:id>
@@ -17940,6 +18092,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564012987</g:id>
@@ -17957,6 +18110,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564013356</g:id>
@@ -18904,6 +19058,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023361</g:id>
@@ -18922,6 +19077,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023366</g:id>
@@ -18940,6 +19096,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023373</g:id>
@@ -18958,6 +19115,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023378</g:id>
@@ -18976,6 +19134,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023381</g:id>
@@ -18994,6 +19153,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023385</g:id>
@@ -19012,6 +19172,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564023463</g:id>
@@ -19780,6 +19941,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564028763</g:id>
@@ -19798,6 +19960,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564028765</g:id>
@@ -19816,6 +19979,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564028769</g:id>
@@ -19834,6 +19998,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564028775</g:id>
@@ -19852,6 +20017,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564028778</g:id>
@@ -19870,6 +20036,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564028898</g:id>
@@ -20230,7 +20397,7 @@
       <g:title>Moletom Especial Core Preto (G / Preto Mostruário)</g:title>
       <g:description>Ref.: 12613303-PPP Linha Atemporal. Especificações do produto: · Modelagem Canguru fechado regular. · Etiqueta emborrachada no peito. · Etiqueta quadrada MCD aplicada acima da barra costas. · Capuz com gola transpassada. · Detalhe de recorte. · Capuz forrado. · Punho e barra em ribana. · Bolso canguru. · Reforço de gola. · Tag personalizado MCD. Composição: 67% Algodão 33% Poliéster. WINTER 26 [ TEMPUS | ATEMPORAL ] MCD. Peças que resistem às tendências. Essenciais e criadas para atravessar estações sem perder relevância. O simples que perpetua. Atemporal é a essência da MCD.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>649.00 BRL</g:price>
       
@@ -20299,6 +20466,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031441</g:id>
@@ -20316,6 +20484,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031444</g:id>
@@ -20333,6 +20502,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031448</g:id>
@@ -20350,6 +20520,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031509</g:id>
@@ -20368,6 +20539,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031520</g:id>
@@ -20386,6 +20558,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031521</g:id>
@@ -20404,6 +20577,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031534</g:id>
@@ -20422,6 +20596,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031547</g:id>
@@ -20440,6 +20615,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031552</g:id>
@@ -20458,6 +20634,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564031726</g:id>
@@ -21273,6 +21450,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069499</g:id>
@@ -21290,6 +21468,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069500</g:id>
@@ -21307,6 +21486,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069502</g:id>
@@ -21324,6 +21504,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069670</g:id>
@@ -21342,6 +21523,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069674</g:id>
@@ -21360,6 +21542,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069677</g:id>
@@ -21378,6 +21561,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069679</g:id>
@@ -21396,6 +21580,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069685</g:id>
@@ -21414,6 +21599,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564069689</g:id>
@@ -21432,6 +21618,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564070142</g:id>
@@ -21518,6 +21705,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -21537,6 +21725,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -21556,6 +21745,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -21575,6 +21765,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -21594,6 +21785,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -21613,6 +21805,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -22211,6 +22404,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564076546</g:id>
@@ -22229,6 +22423,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564076552</g:id>
@@ -22247,6 +22442,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564076560</g:id>
@@ -22265,6 +22461,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564076569</g:id>
@@ -22283,6 +22480,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564076572</g:id>
@@ -22301,6 +22499,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564076575</g:id>
@@ -22319,6 +22518,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564077695</g:id>
@@ -22409,6 +22609,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564077899</g:id>
@@ -22427,6 +22628,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564077922</g:id>
@@ -22445,6 +22647,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564077929</g:id>
@@ -22463,6 +22666,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564078216</g:id>
@@ -22639,7 +22843,7 @@
       <g:title>T-Shirt Box Fit Gueixa Branco (G / Branco)</g:title>
       <g:description>Ref.: 12622615-BBB Especificações do produto: · Linha MCD 30 Anos. · Modelagem box fit. · Estampa MCD localizada no peito lateral. · Reforço de gola. · Estampa grande Gueixa localizada nas costas. · Etiqueta espada 30 Anos aplicada acima da barra traseira. · Etiqueta espada aplicada na gola. · Tag especial com adesivos MCD 30 Anos. Composição: 100% Algodão. Suedine. MCD 30 Anos / Edição Comemorativa .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>289.00 BRL</g:price>
       
@@ -22984,6 +23188,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564080699</g:id>
@@ -23001,6 +23206,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564080700</g:id>
@@ -23018,6 +23224,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564080702</g:id>
@@ -23035,6 +23242,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564081562</g:id>
@@ -23052,6 +23260,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564081563</g:id>
@@ -23069,13 +23278,14 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564081564</g:id>
       <g:title>Camisa Mc Texture Preto (G / Preto Mostruário)</g:title>
       <g:description>Ref.: 12514810-PPP Especificações do produto: · Linha carry over. · Modelagem Comfort. · Botões abaixo da gola. · Etiqueta MCD quadrada na parte interna da vista. · Etiqueta bandeira more core embutida na lateral da barra. · Etiqueta triângulo costurada sobre a pala. · Tag personalizado MCD. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -23086,6 +23296,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564081571</g:id>
@@ -23103,6 +23314,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564082001</g:id>
@@ -23736,6 +23948,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564090492</g:id>
@@ -23754,6 +23967,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564090501</g:id>
@@ -23772,6 +23986,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564090507</g:id>
@@ -23790,6 +24005,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564092179</g:id>
@@ -24232,6 +24448,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -24252,6 +24469,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -24272,6 +24490,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -24292,6 +24511,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -24312,6 +24532,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -24332,6 +24553,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -24740,7 +24962,7 @@
       <g:title>Calça Denim Loose Indigo (48 / Indigo Mostruário)</g:title>
       <g:description>Ref.: 12423909-III MCD MEX // LA TRADICÍON O México retratado através de sua cultura ancestral e comportamento atual. “La tradición” vem para relatar a história, tradições e costumes diversos do México. LINHA LUCHA LIBRE Entretenimento histórico e característico do México conhecido por suas máscaras, cartazes e performances. Especificações do produto: · Modelagem loose. · Jeans claro lavado. · índigo 10OZ. · Bolsos frontais e traseiros. · Fechamento em zíper e botão. · Cós com passante para cinto. · Etiqueta traseira MCD. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -25210,6 +25432,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564127131</g:id>
@@ -25228,13 +25451,14 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564127143</g:id>
       <g:title>Exclusiva - Calça Algodão Slim Chumbo (G / Chumbo Mostruário)</g:title>
       <g:description>Ref.: 12414603-CHB Especificações do produto: · Modelagem chino. · Tecido maquiado inspirado em alfaiataria. · Bolsos embutidos. · Fechamento em elástico com cadarço ajustador. Composição: 100% Poliéster .</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -25246,6 +25470,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564127156</g:id>
@@ -25264,6 +25489,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564129462</g:id>
@@ -26490,6 +26716,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564173230</g:id>
@@ -26508,6 +26735,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564173257</g:id>
@@ -26526,6 +26754,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564173291</g:id>
@@ -26544,6 +26773,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564176004</g:id>
@@ -26979,6 +27209,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -26999,6 +27230,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27019,6 +27251,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27039,6 +27272,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27390,6 +27624,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27410,6 +27645,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27430,6 +27666,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27450,6 +27687,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27470,6 +27708,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -27490,6 +27729,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -28007,6 +28247,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564250199</g:id>
@@ -28025,6 +28266,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564250213</g:id>
@@ -28043,6 +28285,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564250224</g:id>
@@ -28061,6 +28304,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564251217</g:id>
@@ -28239,6 +28483,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -28258,6 +28503,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -28277,6 +28523,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -28296,6 +28543,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -28315,6 +28563,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -28334,6 +28583,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -28812,6 +29062,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266732</g:id>
@@ -28830,6 +29081,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266744</g:id>
@@ -28848,6 +29100,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266755</g:id>
@@ -28866,6 +29119,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266762</g:id>
@@ -28884,6 +29138,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266788</g:id>
@@ -28902,6 +29157,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266811</g:id>
@@ -28920,6 +29176,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266822</g:id>
@@ -28938,6 +29195,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266829</g:id>
@@ -28956,6 +29214,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266847</g:id>
@@ -28974,6 +29233,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564266866</g:id>
@@ -28992,6 +29252,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564268003</g:id>
@@ -29927,6 +30188,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302125</g:id>
@@ -29945,6 +30207,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302133</g:id>
@@ -29963,6 +30226,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302163</g:id>
@@ -29981,6 +30245,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302251</g:id>
@@ -29999,6 +30264,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302275</g:id>
@@ -30017,6 +30283,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302307</g:id>
@@ -30035,6 +30302,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302505</g:id>
@@ -30053,6 +30321,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302509</g:id>
@@ -30071,6 +30340,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302514</g:id>
@@ -30089,6 +30359,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302517</g:id>
@@ -30107,6 +30378,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564302884</g:id>
@@ -30389,6 +30661,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30408,6 +30681,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30427,6 +30701,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30446,6 +30721,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30806,6 +31082,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30824,6 +31101,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30842,6 +31120,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30860,6 +31139,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30878,6 +31158,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30896,6 +31177,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30914,6 +31196,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30932,6 +31215,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -30950,6 +31234,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -30969,6 +31254,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -30988,6 +31274,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -31007,6 +31294,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -31027,6 +31315,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -31047,6 +31336,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -31067,6 +31357,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -31087,6 +31378,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -31654,6 +31946,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564337843</g:id>
@@ -31672,6 +31965,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564337871</g:id>
@@ -31690,6 +31984,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564337890</g:id>
@@ -31708,6 +32003,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564337931</g:id>
@@ -31726,6 +32022,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564337966</g:id>
@@ -31744,6 +32041,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564337979</g:id>
@@ -31762,6 +32060,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564338840</g:id>
@@ -32580,6 +32879,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -32599,6 +32899,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -32618,6 +32919,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -32637,6 +32939,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -32655,6 +32958,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32673,6 +32977,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32691,6 +32996,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32709,6 +33015,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32727,6 +33034,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32745,6 +33053,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32763,6 +33072,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -32781,6 +33091,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -33065,6 +33376,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564403501</g:id>
@@ -33083,6 +33395,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564403522</g:id>
@@ -33101,6 +33414,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564403548</g:id>
@@ -33119,6 +33433,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564420103</g:id>
@@ -33493,6 +33808,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -33512,6 +33828,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -33531,6 +33848,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -33550,6 +33868,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -33569,6 +33888,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -33588,6 +33908,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -33843,6 +34164,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33862,6 +34184,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33881,6 +34204,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33900,6 +34224,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33919,6 +34244,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33938,6 +34264,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33957,6 +34284,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33976,6 +34304,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -33995,6 +34324,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -34014,6 +34344,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -34033,6 +34364,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -34052,6 +34384,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -34096,7 +34429,7 @@
       <g:title>Walk Denim Overloose Indigo (40 / Indigo)</g:title>
       <g:description>Ref.: 12523404-III Especificações do produto: · Linha Rockaway beach. · Modelagem over loose fit. · Rebite chupeta invertido. · Botão flexível. · Rebite caveira. · Bolsos faca. · Etiqueta bandeira embutida na lateral do bolso. · Barra com elástico embutido com ajustador. · Cós traseiro com elástico interno. · Bolso traseiro chapado. · Tag personalizado MCD. Composição: 100% algodão. SUMMER 24/25 [ TROPICAL GOTH | ROCKAWAY BEACH] MCD. A distorção dos elementos que remetem ao tropical e às origens da MCD. Palmeiras e hibiscos em novas configurações de uma forma Core e gótica</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>459.00 BRL</g:price>
       
@@ -34306,6 +34639,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564475075</g:id>
@@ -34324,6 +34658,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564475085</g:id>
@@ -34342,6 +34677,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564475101</g:id>
@@ -34360,6 +34696,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564486579</g:id>
@@ -34462,6 +34799,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564492303</g:id>
@@ -34479,6 +34817,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564492333</g:id>
@@ -34496,6 +34835,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564492370</g:id>
@@ -34513,6 +34853,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564497797</g:id>
@@ -35091,7 +35432,7 @@
       <g:title>T-Shirt Regular Angles Preto (G / Preto Most)</g:title>
       <g:description>Ref.: 12623001-PPP Especificações do produto: · Linha Black A.I. · Modelagem regular. · Estampa frontal Angels + Espada MCD. · Reforço de gola. · Etiqueta MCD + Caveira aplicada na lateral acima da barra. · Tag personalizado MCD. Composição: 100% Algodão. SUMMER 26 [ COLAPSO | BLACK A.I ] MCD. A Linha Black A.I explorou o uso da ferramenta de inteligência artificial no desenvolvimento das artes.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -35924,6 +36265,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -35943,6 +36285,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -35962,6 +36305,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -35981,6 +36325,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -36000,6 +36345,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -36019,6 +36365,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -36456,6 +36803,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564548223</g:id>
@@ -36474,6 +36822,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564548243</g:id>
@@ -36492,6 +36841,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564548251</g:id>
@@ -36510,6 +36860,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564548534</g:id>
@@ -36756,6 +37107,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -36775,6 +37127,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -36794,6 +37147,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -36813,6 +37167,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -36832,6 +37187,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -36851,6 +37207,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -36870,6 +37227,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -36890,6 +37248,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -36910,6 +37269,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -36930,6 +37290,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -36950,6 +37311,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -36970,6 +37332,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37524,6 +37887,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37543,6 +37907,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37562,6 +37927,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37581,6 +37947,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37600,6 +37967,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37619,6 +37987,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37638,6 +38007,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37657,6 +38027,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37676,6 +38047,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37695,6 +38067,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37714,6 +38087,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37733,6 +38107,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -37752,6 +38127,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -37770,6 +38146,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -37788,6 +38165,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -38543,7 +38921,7 @@
       <g:title>T-Shirt Regular Ml More Core Division Pi Branco (G / Branco)</g:title>
       <g:description>Ref.: 12512702-BBB Especificações do produto: · Linha Caligraffiti. · Modelagem Manga longa regular. · Estampa frontal pipa no centro. · Reforço de gola. · Estampa costas more core division. · Etiqueta bandeira embutida na lateral. · Tag personalizado MCD. Composição: 100% algodão. WINTER 25 [ APOCALYPSE | CALIGRAFFITI ] MCD. Herança da raiz californiana da MCD, uma linha que sempre está presente nas coleções, dessa vez com uma inspiração em tipografias de bandas de metal e estética gótica.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -38607,7 +38985,7 @@
       <g:title>T-Shirt Regular Ml More Core Division Pi Preto (G / Preto Mostruário)</g:title>
       <g:description>Ref.: 12512702-PPP Especificações do produto: · Linha Caligraffiti. · Modelagem Manga longa regular. · Estampa frontal pipa no centro. · Reforço de gola. · Estampa costas more core division. · Etiqueta bandeira embutida na lateral. · Tag personalizado MCD. Composição: 100% algodão. WINTER 25 [ APOCALYPSE | CALIGRAFFITI ] MCD. Herança da raiz californiana da MCD, uma linha que sempre está presente nas coleções, dessa vez com uma inspiração em tipografias de bandas de metal e estética gótica.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -38651,6 +39029,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -38670,6 +39049,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -38689,6 +39069,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -38708,6 +39089,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -38727,6 +39109,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -38746,6 +39129,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -38765,6 +39149,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -38784,6 +39169,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -39898,6 +40284,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -39917,6 +40304,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -39936,6 +40324,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -39955,6 +40344,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -39974,6 +40364,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -39993,6 +40384,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Jeans</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40156,6 +40548,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40176,6 +40569,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40196,6 +40590,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40216,6 +40611,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40236,6 +40632,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40256,6 +40653,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -40420,6 +40818,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -40439,6 +40838,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -40458,6 +40858,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -40477,6 +40878,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -40564,6 +40966,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40583,6 +40986,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40602,6 +41006,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40621,14 +41026,15 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
       <g:id>1564625772</g:id>
       <g:title>Calça Cargo Castanho (44 / Castanho Mostruário)</g:title>
       <g:description>Ref.: 12414604-CAS Especificações do produto: · Modelagem cargo. · Sarja estonada. · Bolsos frontais e bolsos traseiros embutidos. · Fechamento em zíper e botão. · Cós com passantes para cinto e reguladores com botões. · Barras com cordão regulador. · Bolsos Cargo laterais. · Caveira MCD metalizada na lateral. Composição: 100% algodão. LINHA LOGOMANIA Uma linha que traz a identidade MCD trabalhada em diversas formas e versões de logos, tipografias e design voltados para o institucional da marca. Linha que explora técnicas únicas e tecidos diferenciados, destacando o CORE da marca.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>579.00 BRL</g:price>
       
@@ -40640,6 +41046,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40659,6 +41066,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40678,6 +41086,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40697,6 +41106,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40716,6 +41126,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40735,6 +41146,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40754,6 +41166,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40773,6 +41186,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40792,6 +41206,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -40811,6 +41226,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -41380,6 +41796,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564639121</g:id>
@@ -41398,6 +41815,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564639158</g:id>
@@ -41416,6 +41834,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564639201</g:id>
@@ -41434,6 +41853,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564639681</g:id>
@@ -41951,6 +42371,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -41969,6 +42390,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -41987,6 +42409,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42005,6 +42428,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42341,6 +42765,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564658812</g:id>
@@ -42358,6 +42783,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564658819</g:id>
@@ -42375,6 +42801,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564658825</g:id>
@@ -42392,6 +42819,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564660040</g:id>
@@ -42490,6 +42918,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42509,6 +42938,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42528,6 +42958,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42547,6 +42978,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42566,6 +42998,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -42585,6 +43018,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -43216,6 +43650,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564668017</g:id>
@@ -43234,6 +43669,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564668024</g:id>
@@ -43252,6 +43688,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564668025</g:id>
@@ -43270,6 +43707,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564668044</g:id>
@@ -43288,6 +43726,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564668051</g:id>
@@ -43306,6 +43745,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564670258</g:id>
@@ -43398,7 +43838,7 @@
       <g:title>Bone Aba Curva Snap Flexfit White (Branco) (U / White (Branco) Branco Somar/Bb)</g:title>
       <g:description>Ref.: 12626510-WHT Especificações do produto: · Modelagem aba curva. · Estampa fogo nas laterais. · Bordado espada no centro. · Tag personalizado MCD. Composição: Sarja Acrílica — 60% Algodão 40% Poliéster. Tamanho Único / Linha Tribal</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>419.00 BRL</g:price>
       
@@ -43428,6 +43868,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564674301</g:id>
@@ -43446,6 +43887,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564674315</g:id>
@@ -43464,6 +43906,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564674324</g:id>
@@ -43482,6 +43925,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564674333</g:id>
@@ -43500,6 +43944,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564674347</g:id>
@@ -43518,6 +43963,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564676030</g:id>
@@ -43536,6 +43982,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -43555,6 +44002,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -43574,6 +44022,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -43593,6 +44042,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -43611,6 +44061,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
     </item>
@@ -43630,6 +44081,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
     </item>
@@ -43649,6 +44101,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
     </item>
@@ -43668,6 +44121,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
     </item>
@@ -45036,6 +45490,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -45054,6 +45509,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -45072,6 +45528,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -45090,6 +45547,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -45555,7 +46013,7 @@
       <g:title>Camiseta Regular Ml Classic Marrom Ruina (M / Marrom Ruina Mostruário)</g:title>
       <g:description>Ref.: 11112701-MRU LINHA CLASSICS Produtos clássicos e contemporâneos. São peças minimalistas onde exploramos apenas o logo como assinaturas. Disponíveis em mais opções de cores; são produtos coringas na coleção.. Especificações do produto: · Manga longa. · Modelagem Regular. · Meia malha penteada. · Mangas com punho. · Silk espada no peito e detalhe MCD na manga. Composição: 100% algodão</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>17</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       
@@ -45573,7 +46031,7 @@
       <g:title>Camiseta Regular Ml Classic Marrom Ruina (G / Marrom Ruina Mostruário)</g:title>
       <g:description>Ref.: 11112701-MRU LINHA CLASSICS Produtos clássicos e contemporâneos. São peças minimalistas onde exploramos apenas o logo como assinaturas. Disponíveis em mais opções de cores; são produtos coringas na coleção.. Especificações do produto: · Manga longa. · Modelagem Regular. · Meia malha penteada. · Mangas com punho. · Silk espada no peito e detalhe MCD na manga. Composição: 100% algodão</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>19</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>18</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       
@@ -45621,6 +46079,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -45641,6 +46100,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -45661,6 +46121,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -45681,6 +46142,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -45701,6 +46163,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -45721,6 +46184,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -46361,6 +46825,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564723733</g:id>
@@ -46379,6 +46844,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564723747</g:id>
@@ -46397,6 +46863,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564723757</g:id>
@@ -46415,6 +46882,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Tricot</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564726043</g:id>
@@ -46565,6 +47033,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -46585,6 +47054,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -46605,6 +47075,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -46625,6 +47096,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -46645,6 +47117,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -46665,6 +47138,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -46830,6 +47304,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -46849,6 +47324,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -46868,6 +47344,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -46887,6 +47364,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -46906,6 +47384,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -46925,6 +47404,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47016,6 +47496,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564736111</g:id>
@@ -47034,6 +47515,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564736114</g:id>
@@ -47052,6 +47534,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564736116</g:id>
@@ -47070,6 +47553,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564736196</g:id>
@@ -47274,6 +47758,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -47293,6 +47778,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -47312,6 +47798,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -47331,6 +47818,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -47350,6 +47838,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -47369,6 +47858,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
@@ -47503,7 +47993,7 @@
       <g:title>T-Shirt Regular Caligrafiti Dourado Preto (M / Preto Mostruario)</g:title>
       <g:description>Ref.: 12622855-PPP Especificações do produto: · Linha Caligraffiti. · Modelagem regular. · Estampa silk espada no peito lateral. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Estampa More Core Division + espada nas costas. · Tag personalizado MCD. Composição: 100% Algodão. Summer 25_26 / Conjuntos Caligraffiti</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -47571,6 +48061,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47589,6 +48080,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47607,6 +48099,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47625,6 +48118,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47643,6 +48137,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47661,6 +48156,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47679,6 +48175,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47697,6 +48194,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -47880,6 +48378,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743558</g:id>
@@ -47897,6 +48396,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743562</g:id>
@@ -47914,6 +48414,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743574</g:id>
@@ -47931,6 +48432,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743660</g:id>
@@ -47948,6 +48450,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743666</g:id>
@@ -47965,6 +48468,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743671</g:id>
@@ -47982,6 +48486,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564743676</g:id>
@@ -47999,6 +48504,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564744970</g:id>
@@ -50431,6 +50937,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -50450,6 +50957,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -50469,6 +50977,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -50488,6 +50997,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -50942,6 +51452,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -50962,6 +51473,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -50982,6 +51494,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -51002,6 +51515,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -51022,6 +51536,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -51042,6 +51557,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
     </item>
@@ -52130,7 +52646,7 @@
       <g:title>T-Shirt Especial Gola Caligraffiti Preto (G / Preto Mostruário)</g:title>
       <g:description>Ref.: 12612015-PPP Linha Caligraffiti. Herança da raiz californiana da MCD, uma linha forte que sempre está presente nas coleções. A união do tempo através da caligrafia ancestral e a contemporânea, das paredes das civilizações antigas aos muros e telas atuais. Especificações do produto: · Modelagem Regular. · Estampa frontal abaixo da gola. · Reforço de gola. · Etiqueta core is about + caveira nas costas. · Tag personalizado MCD. Composição: 100% Algodão. WINTER 26 [ TEMPUS | CALIGRAFFITI ] MCD.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>11</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -52774,6 +53290,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -52793,6 +53310,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -52812,6 +53330,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -52831,6 +53350,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -52850,6 +53370,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -52869,6 +53390,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -52888,6 +53410,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -53082,6 +53605,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -53101,6 +53625,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -53120,6 +53645,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -54324,6 +54850,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564852065</g:id>
@@ -54342,6 +54869,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564852076</g:id>
@@ -54360,6 +54888,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564852082</g:id>
@@ -54378,6 +54907,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564853204</g:id>
@@ -55279,6 +55809,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55297,6 +55828,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55315,6 +55847,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55333,6 +55866,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55351,6 +55885,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55369,6 +55904,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55387,6 +55923,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55405,6 +55942,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55423,6 +55961,7 @@
       <g:size>G1</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55441,6 +55980,7 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55459,6 +55999,7 @@
       <g:size>G3</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -55477,6 +56018,7 @@
       <g:size>G4</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -56043,6 +56585,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564896480</g:id>
@@ -56061,6 +56604,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564896509</g:id>
@@ -56079,6 +56623,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564896537</g:id>
@@ -56097,6 +56642,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564896590</g:id>
@@ -56115,6 +56661,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564896624</g:id>
@@ -56133,6 +56680,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564897979</g:id>
@@ -56393,6 +56941,7 @@
       <g:size>P</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564905662</g:id>
@@ -56410,6 +56959,7 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564905690</g:id>
@@ -56427,6 +56977,7 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564905708</g:id>
@@ -56444,6 +56995,7 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564907276</g:id>
@@ -57216,6 +57768,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564924822</g:id>
@@ -57234,6 +57787,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564924845</g:id>
@@ -57252,6 +57806,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564924859</g:id>
@@ -57270,6 +57825,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564927305</g:id>
@@ -57307,6 +57863,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564927481</g:id>
@@ -57325,6 +57882,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564927489</g:id>
@@ -57343,6 +57901,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564927506</g:id>
@@ -57361,6 +57920,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564929119</g:id>
@@ -57400,8 +57960,8 @@
       <g:id>1564929136</g:id>
       <g:title>T-Shirt Regular Manga Longa Draco Creme Arcanjo (G / Creme Arcanjo)</g:title>
       <g:description>Ref.: 12512705-CRA Especificações do produto: · Linha Draco Bailon. · Modelagem regular manga longa. · Estampa MCD localizada no peito. · Punho e gola em ribana. · Estampa Draco nas mangas. · Estampa + Etiqueta Bailon acima da barra frontal. · Tag personalizado MCD X Bailon. Composição: 100% Algodão. WINTER 25 [ DRACO BAILON ] MCD. Nos céus, onde o fogo encontra o vento, os dragões são majestosos. Seres de poder e mistério, guardiões de segredos ancestrais, eles simbolizam a força indomável e a transformação. Os dragões são a união da bravura e da sabedoria. Eles nos lembram que, em cada um de nós, há um espírito guerreiro capaz de voar alto e enfrentar os desafios que se apresentam.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>219.00 BRL</g:price>
       
@@ -57464,6 +58024,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564935397</g:id>
@@ -57482,6 +58043,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564935434</g:id>
@@ -57500,6 +58062,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564935447</g:id>
@@ -57518,6 +58081,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1564935738</g:id>
@@ -58320,8 +58884,8 @@
       <g:id>1564966789</g:id>
       <g:title>T-Shirt Regular M/C More Core Division F Branco (M / Branco)</g:title>
       <g:description>Ref.: 12612839-BBB Linha Atemporal. Especificações do produto: · Modelagem regular. · Estampa peito frente More Core Division. · Bandeira vertical embutida. · Reforço de gola. · Tag personalizado MCD. Composição: 100% Algodão. WINTER 26 [ TEMPUS | ATEMPORAL ] MCD. Peças que resistem às tendências. Essenciais e criadas para atravessar estações sem perder relevância. O simples que perpetua. Atemporal é a essência da MCD.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -58377,8 +58941,8 @@
       <g:id>1564966942</g:id>
       <g:title>T-Shirt Regular M/C More Core Division F Marinho Chronos (P / Marinho Chronos)</g:title>
       <g:description>Ref.: 12612839-MCH Linha Atemporal. Especificações do produto: · Modelagem regular. · Estampa peito frente More Core Division. · Bandeira vertical embutida. · Reforço de gola. · Tag personalizado MCD. Composição: 100% Algodão. WINTER 26 [ TEMPUS | ATEMPORAL ] MCD. Peças que resistem às tendências. Essenciais e criadas para atravessar estações sem perder relevância. O simples que perpetua. Atemporal é a essência da MCD.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -59122,6 +59686,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567192279</g:id>
@@ -59140,6 +59705,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567192281</g:id>
@@ -59158,6 +59724,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567192282</g:id>
@@ -59176,6 +59743,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567193239</g:id>
@@ -59212,6 +59780,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567193293</g:id>
@@ -59230,6 +59799,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567193297</g:id>
@@ -59248,6 +59818,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567193303</g:id>
@@ -59266,6 +59837,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567193305</g:id>
@@ -59284,6 +59856,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567193308</g:id>
@@ -59302,6 +59875,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1567196941</g:id>
@@ -60110,6 +60684,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1572951604</g:id>
@@ -60128,6 +60703,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1572951614</g:id>
@@ -60146,6 +60722,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1572951619</g:id>
@@ -60164,6 +60741,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1572951633</g:id>
@@ -60182,6 +60760,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1572951645</g:id>
@@ -60200,6 +60779,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1574343654</g:id>
@@ -66520,8 +67100,8 @@
       <g:id>1574737578</g:id>
       <g:title>Camiseta Regular Costas La Rosa Negra Verde Vitral (M / Verde Vitral)</g:title>
       <g:description>Ref.: 12722833-VRL Linha La rosa negra. A rosa negra carrega profundo significado ligado ao renascimento e resiliência, na esperança de que algo novo e mais forte ressurgir. na tatuagem e na arte popular mexicana pode simbolizar a superação de grandes adversidades mostrando a força de quem sobreviveu a momentos difíceis. também pode ser encontrada em celebrações religiosas modernas, como o dia de los muertos. Especificações do produto: · Modelagem regular. · Estampa frontal arabesco MCD. · Reforço de gola. · Etiqueta more core embutida na lateral. · Estampa la rosa more core division costas. · Tag personalizado MCD. Composição: 100% Algodão. SUMMER 26/27 / FIDELIDA| LA ROSA NEGRA MCD|.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>179.00 BRL</g:price>
       
@@ -67723,6 +68303,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1575555686</g:id>
@@ -67742,6 +68323,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1575555696</g:id>
@@ -67761,6 +68343,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1575555707</g:id>
@@ -67780,6 +68363,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
+      <g:product_type>Outlet</g:product_type>
     </item>
   </channel>
 </rss>
