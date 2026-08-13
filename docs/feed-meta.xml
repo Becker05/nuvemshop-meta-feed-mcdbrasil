@@ -932,6 +932,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563600504</g:id>
@@ -951,6 +952,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563600529</g:id>
@@ -970,6 +972,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563600564</g:id>
@@ -989,6 +992,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563605218</g:id>
@@ -2280,6 +2284,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563659759</g:id>
@@ -2297,6 +2302,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563659788</g:id>
@@ -2314,6 +2320,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563659830</g:id>
@@ -2331,6 +2338,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563661438</g:id>
@@ -2696,6 +2704,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563673040</g:id>
@@ -2713,6 +2722,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563673064</g:id>
@@ -2730,6 +2740,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563673091</g:id>
@@ -2747,6 +2758,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563675440</g:id>
@@ -3892,7 +3904,7 @@
       <g:title>T-Shirt Box Fit Lb Gola Alta Branco (P / Branco Most)</g:title>
       <g:description>Ref.: 12622612-BBB Especificações do produto: · Linha Branca. · Modelagem box fit. · Estampa espada MCD em plastisol prensado + relevo. · Reforço de gola. · Etiqueta vertical aplicada acima da barra costas. · Botões abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -3909,7 +3921,7 @@
       <g:title>T-Shirt Box Fit Lb Gola Alta Branco (M / Branco Most)</g:title>
       <g:description>Ref.: 12622612-BBB Especificações do produto: · Linha Branca. · Modelagem box fit. · Estampa espada MCD em plastisol prensado + relevo. · Reforço de gola. · Etiqueta vertical aplicada acima da barra costas. · Botões abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>259.00 BRL</g:price>
       
@@ -5064,6 +5076,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563776814</g:id>
@@ -5083,6 +5096,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563776862</g:id>
@@ -5102,6 +5116,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563776885</g:id>
@@ -5121,6 +5136,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563776918</g:id>
@@ -5140,6 +5156,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563776936</g:id>
@@ -5159,6 +5176,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563777330</g:id>
@@ -5286,6 +5304,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563777836</g:id>
@@ -5305,6 +5324,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563777865</g:id>
@@ -5324,6 +5344,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563777897</g:id>
@@ -5343,6 +5364,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563777918</g:id>
@@ -5362,6 +5384,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563777941</g:id>
@@ -5381,6 +5404,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563778257</g:id>
@@ -7109,6 +7133,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563841736</g:id>
@@ -7129,6 +7154,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563841748</g:id>
@@ -7149,6 +7175,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563841759</g:id>
@@ -7169,6 +7196,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563841767</g:id>
@@ -7189,6 +7217,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563841777</g:id>
@@ -7209,6 +7238,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842022</g:id>
@@ -7229,6 +7259,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842074</g:id>
@@ -7249,6 +7280,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842085</g:id>
@@ -7269,6 +7301,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842101</g:id>
@@ -7289,6 +7322,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842115</g:id>
@@ -7309,6 +7343,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842140</g:id>
@@ -7329,6 +7364,7 @@
       <g:product_type>Utility</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842824</g:id>
@@ -7348,6 +7384,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842863</g:id>
@@ -7367,6 +7404,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842885</g:id>
@@ -7386,6 +7424,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563842908</g:id>
@@ -7405,6 +7444,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563844121</g:id>
@@ -7496,6 +7536,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563844359</g:id>
@@ -7515,6 +7556,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563844384</g:id>
@@ -7534,6 +7576,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563844403</g:id>
@@ -7553,6 +7596,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845030</g:id>
@@ -7572,6 +7616,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845054</g:id>
@@ -7591,6 +7636,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845073</g:id>
@@ -7610,6 +7656,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845108</g:id>
@@ -7629,6 +7676,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845281</g:id>
@@ -7648,6 +7696,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845309</g:id>
@@ -7667,6 +7716,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845338</g:id>
@@ -7686,6 +7736,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563845366</g:id>
@@ -7705,6 +7756,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563847031</g:id>
@@ -8632,6 +8684,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563860991</g:id>
@@ -8651,6 +8704,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563861001</g:id>
@@ -8670,6 +8724,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563861015</g:id>
@@ -8689,6 +8744,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563861421</g:id>
@@ -8706,6 +8762,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563861440</g:id>
@@ -8723,6 +8780,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563861457</g:id>
@@ -8740,6 +8798,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563861468</g:id>
@@ -8757,6 +8816,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563863512</g:id>
@@ -9253,6 +9313,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874111</g:id>
@@ -9273,6 +9334,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874152</g:id>
@@ -9293,6 +9355,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874200</g:id>
@@ -9313,6 +9376,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874415</g:id>
@@ -9333,6 +9397,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874432</g:id>
@@ -9353,6 +9418,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874455</g:id>
@@ -9373,6 +9439,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874477</g:id>
@@ -9393,6 +9460,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874724</g:id>
@@ -9413,6 +9481,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874740</g:id>
@@ -9433,6 +9502,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874759</g:id>
@@ -9453,6 +9523,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563874774</g:id>
@@ -9473,6 +9544,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563875013</g:id>
@@ -9648,6 +9720,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563877892</g:id>
@@ -9667,6 +9740,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563877965</g:id>
@@ -9686,6 +9760,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563878009</g:id>
@@ -9705,6 +9780,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563885234</g:id>
@@ -11875,6 +11951,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563932103</g:id>
@@ -11894,6 +11971,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563932109</g:id>
@@ -11913,6 +11991,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563932122</g:id>
@@ -11932,6 +12011,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563932706</g:id>
@@ -12179,6 +12259,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937320</g:id>
@@ -12198,6 +12279,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937340</g:id>
@@ -12217,6 +12299,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937349</g:id>
@@ -12236,6 +12319,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563937835</g:id>
@@ -12523,6 +12607,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563942959</g:id>
@@ -12542,6 +12627,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563942965</g:id>
@@ -12561,6 +12647,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563942981</g:id>
@@ -12580,6 +12667,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563943223</g:id>
@@ -12599,6 +12687,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563943240</g:id>
@@ -12618,6 +12707,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563943256</g:id>
@@ -12637,6 +12727,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563943261</g:id>
@@ -12656,6 +12747,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563949248</g:id>
@@ -13111,6 +13203,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563957553</g:id>
@@ -13130,6 +13223,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563957558</g:id>
@@ -13149,6 +13243,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563957566</g:id>
@@ -13168,6 +13263,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563963566</g:id>
@@ -13433,6 +13529,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968129</g:id>
@@ -13450,6 +13547,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968132</g:id>
@@ -13467,6 +13565,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968136</g:id>
@@ -13484,6 +13583,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968170</g:id>
@@ -13504,6 +13604,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968179</g:id>
@@ -13524,6 +13625,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968181</g:id>
@@ -13544,6 +13646,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563968189</g:id>
@@ -13564,6 +13667,7 @@
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563969057</g:id>
@@ -13750,6 +13854,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972048</g:id>
@@ -13769,6 +13874,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972051</g:id>
@@ -13788,6 +13894,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972057</g:id>
@@ -13807,6 +13914,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972141</g:id>
@@ -13826,6 +13934,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972146</g:id>
@@ -13845,6 +13954,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972157</g:id>
@@ -13864,6 +13974,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972162</g:id>
@@ -13883,6 +13994,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563972239</g:id>
@@ -14377,6 +14489,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563979106</g:id>
@@ -14394,6 +14507,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563979107</g:id>
@@ -14411,6 +14525,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563979112</g:id>
@@ -14428,6 +14543,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563979339</g:id>
@@ -15110,6 +15226,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563995459</g:id>
@@ -15128,6 +15245,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563995464</g:id>
@@ -15146,6 +15264,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563995471</g:id>
@@ -15164,6 +15283,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563996297</g:id>
@@ -15333,6 +15453,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563996685</g:id>
@@ -15350,6 +15471,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563996689</g:id>
@@ -15367,6 +15489,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563996694</g:id>
@@ -15384,6 +15507,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997269</g:id>
@@ -15402,6 +15526,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997275</g:id>
@@ -15420,6 +15545,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997278</g:id>
@@ -15438,6 +15564,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997279</g:id>
@@ -15456,6 +15583,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997304</g:id>
@@ -15474,6 +15602,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997306</g:id>
@@ -15492,6 +15621,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997309</g:id>
@@ -15510,6 +15640,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997314</g:id>
@@ -15528,6 +15659,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997377</g:id>
@@ -15546,6 +15678,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997378</g:id>
@@ -15564,6 +15697,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997380</g:id>
@@ -15582,6 +15716,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997382</g:id>
@@ -15600,6 +15735,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997414</g:id>
@@ -15619,6 +15755,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997420</g:id>
@@ -15638,6 +15775,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997428</g:id>
@@ -15657,6 +15795,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997434</g:id>
@@ -15676,6 +15815,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997497</g:id>
@@ -15695,6 +15835,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997500</g:id>
@@ -15714,6 +15855,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997505</g:id>
@@ -15733,6 +15875,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997507</g:id>
@@ -15752,6 +15895,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563997846</g:id>
@@ -16095,6 +16239,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563998876</g:id>
@@ -16114,6 +16259,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563998880</g:id>
@@ -16133,6 +16279,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563998881</g:id>
@@ -16152,6 +16299,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999400</g:id>
@@ -16380,7 +16528,7 @@
       <g:title>T-Shirt Regular Espada Pontilhada Branco (P / Branco Most)</g:title>
       <g:description>Ref.: 12622852-BBB Especificações do produto: · Linha Branca. · Modelagem regular. · Estampa frontal espada pontilhada MCD no centro. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -16398,8 +16546,8 @@
       <g:id>1564003771</g:id>
       <g:title>T-Shirt Regular Espada Pontilhada Branco (M / Branco Most)</g:title>
       <g:description>Ref.: 12622852-BBB Especificações do produto: · Linha Branca. · Modelagem regular. · Estampa frontal espada pontilhada MCD no centro. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -16436,8 +16584,8 @@
       <g:id>1564003808</g:id>
       <g:title>T-Shirt Regular Espada Pontilhada Branco (GG / Branco Most)</g:title>
       <g:description>Ref.: 12622852-BBB Especificações do produto: · Linha Branca. · Modelagem regular. · Estampa frontal espada pontilhada MCD no centro. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>149.00 BRL</g:price>
       
@@ -16758,6 +16906,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564005303</g:id>
@@ -16775,6 +16924,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564005327</g:id>
@@ -16792,6 +16942,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564005328</g:id>
@@ -16809,6 +16960,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564006501</g:id>
@@ -16970,6 +17122,7 @@
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -16988,6 +17141,7 @@
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -17006,6 +17160,7 @@
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -17024,6 +17179,7 @@
       <g:size>G4</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -17308,6 +17464,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009322</g:id>
@@ -17328,6 +17485,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009330</g:id>
@@ -17348,6 +17506,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009333</g:id>
@@ -17368,6 +17527,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009395</g:id>
@@ -17388,6 +17548,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009399</g:id>
@@ -17408,6 +17569,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009405</g:id>
@@ -17428,6 +17590,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564009406</g:id>
@@ -17448,6 +17611,7 @@
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564010603</g:id>
@@ -17530,7 +17694,7 @@
       <g:title>T-Shirt Especial Lb Mcd Off White (P / Off White Most)</g:title>
       <g:description>Ref.: 12622018-OFW Especificações do produto: · Linha Branca. · Modelagem regular. · Etiqueta termocolante MCD no centro frontal. · Reforço de gola. · Etiqueta MCD vertical aplicada acima da barra costas. · Tag personalizado MCD Linha Branca. Composição: 84% Algodão 16% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -17563,8 +17727,8 @@
       <g:id>1564010908</g:id>
       <g:title>T-Shirt Especial Lb Mcd Off White (G / Off White Most)</g:title>
       <g:description>Ref.: 12622018-OFW Especificações do produto: · Linha Branca. · Modelagem regular. · Etiqueta termocolante MCD no centro frontal. · Reforço de gola. · Etiqueta MCD vertical aplicada acima da barra costas. · Tag personalizado MCD Linha Branca. Composição: 84% Algodão 16% Poliéster. Summer 25_26 / Linha Branca</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>15</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -17611,6 +17775,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011155</g:id>
@@ -17630,6 +17795,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011160</g:id>
@@ -17649,6 +17815,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011170</g:id>
@@ -17668,6 +17835,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011173</g:id>
@@ -17687,6 +17855,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011176</g:id>
@@ -17706,6 +17875,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011219</g:id>
@@ -17833,6 +18003,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011542</g:id>
@@ -17852,6 +18023,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011552</g:id>
@@ -17871,6 +18043,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564011564</g:id>
@@ -17890,6 +18063,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564012028</g:id>
@@ -18136,6 +18310,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564012977</g:id>
@@ -18154,6 +18329,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564012983</g:id>
@@ -18172,6 +18348,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564012987</g:id>
@@ -18190,6 +18367,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564013356</g:id>
@@ -18637,6 +18815,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564018726</g:id>
@@ -18655,6 +18834,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564018728</g:id>
@@ -18673,6 +18853,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564019393</g:id>
@@ -18918,6 +19099,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022798</g:id>
@@ -18938,6 +19120,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022801</g:id>
@@ -18958,6 +19141,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022803</g:id>
@@ -18978,6 +19162,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022866</g:id>
@@ -18998,6 +19183,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022869</g:id>
@@ -19018,6 +19204,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022870</g:id>
@@ -19038,6 +19225,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564022873</g:id>
@@ -19058,6 +19246,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564023299</g:id>
@@ -19275,6 +19464,7 @@
       <g:item_group_id>357167442</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -19292,6 +19482,7 @@
       <g:item_group_id>357167442</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -19309,6 +19500,7 @@
       <g:item_group_id>357167442</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -19326,6 +19518,7 @@
       <g:item_group_id>357167442</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -20567,6 +20760,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031441</g:id>
@@ -20585,6 +20779,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031444</g:id>
@@ -20603,6 +20798,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031448</g:id>
@@ -20621,6 +20817,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031509</g:id>
@@ -21487,6 +21684,7 @@
       <g:item_group_id>357182878</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -21504,6 +21702,7 @@
       <g:item_group_id>357182878</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -21521,6 +21720,7 @@
       <g:item_group_id>357182878</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -21538,6 +21738,7 @@
       <g:item_group_id>357182878</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -21557,6 +21758,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069499</g:id>
@@ -21575,6 +21777,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069500</g:id>
@@ -21593,6 +21796,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069502</g:id>
@@ -21611,6 +21815,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069670</g:id>
@@ -23315,6 +23520,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564080699</g:id>
@@ -23333,6 +23539,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564080700</g:id>
@@ -23351,6 +23558,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564080702</g:id>
@@ -23369,6 +23577,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564081562</g:id>
@@ -23387,6 +23596,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564081563</g:id>
@@ -23405,6 +23615,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564081564</g:id>
@@ -23423,6 +23634,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564081571</g:id>
@@ -23441,6 +23653,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564082001</g:id>
@@ -24509,6 +24722,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564099793</g:id>
@@ -24526,6 +24740,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564099799</g:id>
@@ -24543,6 +24758,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564099807</g:id>
@@ -24560,6 +24776,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564107322</g:id>
@@ -26312,6 +26529,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564148164</g:id>
@@ -26331,6 +26549,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564148186</g:id>
@@ -26350,6 +26569,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564148214</g:id>
@@ -26369,6 +26589,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564149331</g:id>
@@ -26386,6 +26607,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564149373</g:id>
@@ -26403,6 +26625,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564149395</g:id>
@@ -26420,6 +26643,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564149408</g:id>
@@ -26437,6 +26661,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564152666</g:id>
@@ -26719,6 +26944,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166540</g:id>
@@ -26738,6 +26964,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166564</g:id>
@@ -26757,6 +26984,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166578</g:id>
@@ -26776,6 +27004,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166842</g:id>
@@ -26796,6 +27025,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166859</g:id>
@@ -26816,6 +27046,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166882</g:id>
@@ -26836,6 +27067,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564166898</g:id>
@@ -26856,6 +27088,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564173200</g:id>
@@ -26875,6 +27108,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564173230</g:id>
@@ -26894,6 +27128,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564173257</g:id>
@@ -26913,6 +27148,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564173291</g:id>
@@ -26932,6 +27168,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564176004</g:id>
@@ -27281,6 +27518,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564193441</g:id>
@@ -27298,6 +27536,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564193470</g:id>
@@ -27315,6 +27554,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564193495</g:id>
@@ -27332,6 +27572,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564193766</g:id>
@@ -28500,6 +28741,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251239</g:id>
@@ -28520,6 +28762,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251255</g:id>
@@ -28540,6 +28783,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251271</g:id>
@@ -28560,6 +28804,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251568</g:id>
@@ -28580,6 +28825,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251587</g:id>
@@ -28600,6 +28846,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251616</g:id>
@@ -28620,6 +28867,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251644</g:id>
@@ -28640,6 +28888,7 @@
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564254880</g:id>
@@ -29112,6 +29361,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564260065</g:id>
@@ -29129,6 +29379,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564260093</g:id>
@@ -29146,6 +29397,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564260121</g:id>
@@ -29163,6 +29415,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564264526</g:id>
@@ -29180,6 +29433,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564264540</g:id>
@@ -29197,6 +29451,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564264559</g:id>
@@ -29214,6 +29469,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564264571</g:id>
@@ -29231,6 +29487,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564266720</g:id>
@@ -30509,6 +30766,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564302509</g:id>
@@ -30528,6 +30786,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564302514</g:id>
@@ -30547,6 +30806,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564302517</g:id>
@@ -30566,6 +30826,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564302884</g:id>
@@ -31271,6 +31532,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564320861</g:id>
@@ -31290,6 +31552,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564320894</g:id>
@@ -31309,6 +31572,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564320906</g:id>
@@ -31328,6 +31592,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321250</g:id>
@@ -31347,6 +31612,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321276</g:id>
@@ -31366,6 +31632,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321299</g:id>
@@ -31385,6 +31652,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564321311</g:id>
@@ -31404,6 +31672,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564324074</g:id>
@@ -31424,6 +31693,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564324082</g:id>
@@ -31444,6 +31714,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564324100</g:id>
@@ -31464,6 +31735,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564324108</g:id>
@@ -31484,6 +31756,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564324380</g:id>
@@ -32853,6 +33126,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564353453</g:id>
@@ -32872,6 +33146,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564353473</g:id>
@@ -32891,6 +33166,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564353494</g:id>
@@ -32910,6 +33186,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355019</g:id>
@@ -32927,6 +33204,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355030</g:id>
@@ -32944,6 +33222,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355067</g:id>
@@ -32961,6 +33240,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355097</g:id>
@@ -32978,6 +33258,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564359306</g:id>
@@ -33153,6 +33434,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368342</g:id>
@@ -33172,6 +33454,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368358</g:id>
@@ -33191,6 +33474,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368369</g:id>
@@ -33210,6 +33494,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368706</g:id>
@@ -33229,6 +33514,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368724</g:id>
@@ -33248,6 +33534,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368737</g:id>
@@ -33267,6 +33554,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564368753</g:id>
@@ -33286,6 +33574,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564370476</g:id>
@@ -33370,6 +33659,7 @@
       <g:item_group_id>357273527</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -33387,6 +33677,7 @@
       <g:item_group_id>357273527</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -33404,6 +33695,7 @@
       <g:item_group_id>357273527</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -33421,6 +33713,7 @@
       <g:item_group_id>357273527</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -34370,6 +34663,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452677</g:id>
@@ -34390,6 +34684,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452698</g:id>
@@ -34410,6 +34705,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452718</g:id>
@@ -34430,6 +34726,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452848</g:id>
@@ -34450,6 +34747,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452869</g:id>
@@ -34470,6 +34768,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452913</g:id>
@@ -34490,6 +34789,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564452961</g:id>
@@ -34510,6 +34810,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564453166</g:id>
@@ -34530,6 +34831,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564453181</g:id>
@@ -34550,6 +34852,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564453196</g:id>
@@ -34570,6 +34873,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564453208</g:id>
@@ -34590,6 +34894,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564455191</g:id>
@@ -35007,6 +35312,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564492303</g:id>
@@ -35025,6 +35331,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564492333</g:id>
@@ -35043,6 +35350,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564492370</g:id>
@@ -35061,6 +35369,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564497797</g:id>
@@ -35466,6 +35775,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564508863</g:id>
@@ -35483,6 +35793,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564508879</g:id>
@@ -35500,6 +35811,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564508899</g:id>
@@ -35517,6 +35829,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564509979</g:id>
@@ -36474,6 +36787,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -36495,6 +36809,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -36516,6 +36831,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -36537,6 +36853,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -36558,6 +36875,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -36579,6 +36897,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -36951,6 +37270,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564546162</g:id>
@@ -36970,6 +37290,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564546178</g:id>
@@ -36989,6 +37310,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564546196</g:id>
@@ -37008,6 +37330,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564548210</g:id>
@@ -38062,6 +38385,7 @@
       <g:item_group_id>357338077</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -38079,6 +38403,7 @@
       <g:item_group_id>357338077</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -38096,6 +38421,7 @@
       <g:item_group_id>357338077</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -38117,6 +38443,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568459</g:id>
@@ -38137,6 +38464,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568487</g:id>
@@ -38157,6 +38485,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568504</g:id>
@@ -38177,6 +38506,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568670</g:id>
@@ -38197,6 +38527,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568689</g:id>
@@ -38217,6 +38548,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568711</g:id>
@@ -38237,6 +38569,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564568771</g:id>
@@ -38257,6 +38590,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564569004</g:id>
@@ -38277,6 +38611,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564569029</g:id>
@@ -38297,6 +38632,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564569042</g:id>
@@ -38317,6 +38653,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564569060</g:id>
@@ -38337,6 +38674,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564574434</g:id>
@@ -38411,6 +38749,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564575663</g:id>
@@ -38428,6 +38767,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564575679</g:id>
@@ -38445,6 +38785,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564575711</g:id>
@@ -38462,6 +38803,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564576762</g:id>
@@ -40223,7 +40565,7 @@
       <g:title>Polo Lb Sem Botao Off White (GG / Off White Most)</g:title>
       <g:description>Ref.: 12622403-OFW Especificações do produto: · Linha Branca. · Modelagem polo. · Etiqueta termocolante pipa no centro frontal. · Reforço de gola. · Etiqueta traseira MCD aplicada abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 70% Algodão 30% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>379.00 BRL</g:price>
       
@@ -40716,6 +41058,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564615354</g:id>
@@ -40735,6 +41078,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564615376</g:id>
@@ -40754,6 +41098,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564615388</g:id>
@@ -40773,6 +41118,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564617238</g:id>
@@ -41143,6 +41489,7 @@
       <g:item_group_id>357363538</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -41160,6 +41507,7 @@
       <g:item_group_id>357363538</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -41177,6 +41525,7 @@
       <g:item_group_id>357363538</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -41194,6 +41543,7 @@
       <g:item_group_id>357363538</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -41576,6 +41926,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564626884</g:id>
@@ -41597,6 +41948,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564626890</g:id>
@@ -41618,6 +41970,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564626898</g:id>
@@ -41639,6 +41992,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564628129</g:id>
@@ -42044,6 +42398,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564639121</g:id>
@@ -42063,6 +42418,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564639158</g:id>
@@ -42082,6 +42438,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564639201</g:id>
@@ -42101,6 +42458,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564639681</g:id>
@@ -42620,6 +42978,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564651330</g:id>
@@ -42639,6 +42998,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564651332</g:id>
@@ -42658,6 +43018,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564651333</g:id>
@@ -42677,6 +43038,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564651426</g:id>
@@ -42953,6 +43315,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Merch</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564658007</g:id>
@@ -42974,6 +43337,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Merch</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564658014</g:id>
@@ -42995,6 +43359,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Merch</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564658803</g:id>
@@ -43013,6 +43378,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564658812</g:id>
@@ -43031,6 +43397,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564658819</g:id>
@@ -43049,6 +43416,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564658825</g:id>
@@ -43067,6 +43435,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564660040</g:id>
@@ -43904,6 +44273,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564668017</g:id>
@@ -43923,6 +44293,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564668024</g:id>
@@ -43942,6 +44313,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564668025</g:id>
@@ -43961,6 +44333,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564668044</g:id>
@@ -43980,6 +44353,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564668051</g:id>
@@ -43999,6 +44373,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564670258</g:id>
@@ -44122,6 +44497,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -44142,6 +44518,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -44162,6 +44539,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -44182,6 +44560,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -44202,6 +44581,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -44222,6 +44602,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -44244,6 +44625,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676044</g:id>
@@ -44265,6 +44647,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676056</g:id>
@@ -44286,6 +44669,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676064</g:id>
@@ -44307,6 +44691,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564678981</g:id>
@@ -44327,6 +44712,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564678987</g:id>
@@ -44347,6 +44733,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564678997</g:id>
@@ -44367,6 +44754,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564679002</g:id>
@@ -44387,13 +44775,14 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564679403</g:id>
       <g:title>Polo Lb Vichy Off White (P / Off White Most)</g:title>
       <g:description>Ref.: 12622404-OFW Especificações do produto: · Linha Branca. · Modelagem polo. · Bordado espada no peito lateral. · Reforço de gola. · Etiqueta traseira MCD aplicada abaixo da gola. · Botões abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 70% Algodão 30% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>204.00 BRL</g:price>
       
@@ -44409,8 +44798,8 @@
       <g:id>1564679408</g:id>
       <g:title>Polo Lb Vichy Off White (M / Off White Most)</g:title>
       <g:description>Ref.: 12622404-OFW Especificações do produto: · Linha Branca. · Modelagem polo. · Bordado espada no peito lateral. · Reforço de gola. · Etiqueta traseira MCD aplicada abaixo da gola. · Botões abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 70% Algodão 30% Poliéster. Summer 25_26 / Linha Branca</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>204.00 BRL</g:price>
       
@@ -44427,7 +44816,7 @@
       <g:title>Polo Lb Vichy Off White (G / Off White Most)</g:title>
       <g:description>Ref.: 12622404-OFW Especificações do produto: · Linha Branca. · Modelagem polo. · Bordado espada no peito lateral. · Reforço de gola. · Etiqueta traseira MCD aplicada abaixo da gola. · Botões abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 70% Algodão 30% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>204.00 BRL</g:price>
       
@@ -44474,6 +44863,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564683113</g:id>
@@ -44493,6 +44883,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564683121</g:id>
@@ -44512,6 +44903,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564683132</g:id>
@@ -44531,6 +44923,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564684201</g:id>
@@ -45147,6 +45540,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564695678</g:id>
@@ -45166,6 +45560,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564695690</g:id>
@@ -45185,6 +45580,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564695698</g:id>
@@ -45204,6 +45600,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564697849</g:id>
@@ -45448,6 +45845,7 @@
       <g:item_group_id>357390060</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -45465,6 +45863,7 @@
       <g:item_group_id>357390060</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -45482,6 +45881,7 @@
       <g:item_group_id>357390060</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -45499,6 +45899,7 @@
       <g:item_group_id>357390060</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -45677,8 +46078,8 @@
       <g:id>1564710360</g:id>
       <g:title>T-Shirt Especial Lb Core Off White (P / Off White Most)</g:title>
       <g:description>Ref.: 12622020-OFW Especificações do produto: · Linha Branca. · Modelagem regular. · Etiqueta termocolante pipa localizada no peito lateral. · Reforço de gola. · Etiqueta MCD vertical aplicada acima da barra costas. · Tag personalizado MCD Linha Branca. Composição: 70% Algodão 30% Poliéster. Summer 25_26 / Linha Branca</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>289.00 BRL</g:price>
       
@@ -45759,6 +46160,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564710473</g:id>
@@ -45778,6 +46180,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564710485</g:id>
@@ -45797,6 +46200,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564710497</g:id>
@@ -45816,6 +46220,7 @@
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564711901</g:id>
@@ -47167,6 +47572,7 @@
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564726049</g:id>
@@ -47184,6 +47590,7 @@
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564726060</g:id>
@@ -47201,6 +47608,7 @@
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564726069</g:id>
@@ -47218,6 +47626,7 @@
       <g:size>G4</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564727927</g:id>
@@ -47764,6 +48173,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -47784,6 +48194,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -47804,6 +48215,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -47824,6 +48236,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -48340,6 +48753,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739560</g:id>
@@ -48359,6 +48773,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739568</g:id>
@@ -48378,6 +48793,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739578</g:id>
@@ -48397,6 +48813,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739674</g:id>
@@ -48416,6 +48833,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739681</g:id>
@@ -48435,6 +48853,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739686</g:id>
@@ -48454,6 +48873,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564739693</g:id>
@@ -48473,6 +48893,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564742074</g:id>
@@ -48506,6 +48927,7 @@
       <g:item_group_id>357400730</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -48523,6 +48945,7 @@
       <g:item_group_id>357400730</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -48540,6 +48963,7 @@
       <g:item_group_id>357400730</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -48557,6 +48981,7 @@
       <g:item_group_id>357400730</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -48605,8 +49030,8 @@
       <g:id>1564742348</g:id>
       <g:title>Moletom Canguru Aberto Logomania Marrom Ruina (G / Marrom Ruina Mostruário)</g:title>
       <g:description>Ref.: 12513503-MRU Especificações do produto: · Linha Logomania. · Modelagem regular. · Etiqueta termocolante pipa dourada. · Estampa silk relevo. · Bolso canguru. · Punho e barra em ribana. · Etiqueta more core embutida na lateral. · Ilhós more core + arruela de plástico. · Etiqueta Clips aplicada no capuz. · Zíper de nylon + puxador personalizado. · Estampa more core division costas. · Tag personalizado MCD. Composição: 50% Poliéster. 50% Algodão. WINTER 25 [ APOCALYPSE | LOGOMANIA ] MCD. MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design voltados para o lado institucional da marca.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>629.00 BRL</g:price>
       
@@ -48660,6 +49085,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743558</g:id>
@@ -48678,6 +49104,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743562</g:id>
@@ -48696,6 +49123,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743574</g:id>
@@ -48714,6 +49142,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743660</g:id>
@@ -48732,6 +49161,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743666</g:id>
@@ -48750,6 +49180,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743671</g:id>
@@ -48768,6 +49199,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743676</g:id>
@@ -48786,6 +49218,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564744970</g:id>
@@ -49541,6 +49974,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564751726</g:id>
@@ -49560,6 +49994,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564751728</g:id>
@@ -49579,6 +50014,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564751731</g:id>
@@ -49598,6 +50034,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-Shirts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564752900</g:id>
@@ -50047,6 +50484,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564798251</g:id>
@@ -50064,6 +50502,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564798252</g:id>
@@ -50081,6 +50520,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564798253</g:id>
@@ -50098,6 +50538,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564798354</g:id>
@@ -53437,7 +53878,7 @@
       <g:title>T-Shirt Regular Mcd Com Espada Branco (P / Branco Most)</g:title>
       <g:description>Ref.: 12622851-BBB Especificações do produto: · Linha Branca. · Modelagem regular. · Estampa frontal Espada MCD no centro. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Estampa MCD Espada nas costas. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>19</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>16</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -53475,7 +53916,7 @@
       <g:title>T-Shirt Regular Mcd Com Espada Branco (G / Branco Most)</g:title>
       <g:description>Ref.: 12622851-BBB Especificações do produto: · Linha Branca. · Modelagem regular. · Estampa frontal Espada MCD no centro. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Estampa MCD Espada nas costas. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -53493,8 +53934,8 @@
       <g:id>1564816382</g:id>
       <g:title>T-Shirt Regular Mcd Com Espada Branco (GG / Branco Most)</g:title>
       <g:description>Ref.: 12622851-BBB Especificações do produto: · Linha Branca. · Modelagem regular. · Estampa frontal Espada MCD no centro. · Reforço de gola. · Etiqueta More Core vertical embutida na lateral. · Estampa MCD Espada nas costas. · Tag personalizado MCD Linha Branca. Composição: 100% Algodão. Summer 25_26 / Linha Branca</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.00 BRL</g:price>
       
@@ -54829,6 +55270,7 @@
       <g:item_group_id>357429475</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -54846,6 +55288,7 @@
       <g:item_group_id>357429475</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -54863,6 +55306,7 @@
       <g:item_group_id>357429475</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -54951,6 +55395,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564844918</g:id>
@@ -54970,6 +55415,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564844942</g:id>
@@ -54989,6 +55435,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564844959</g:id>
@@ -55008,6 +55455,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type> Especiais</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564846825</g:id>
@@ -55024,6 +55472,7 @@
       <g:item_group_id>357430745</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -55041,6 +55490,7 @@
       <g:item_group_id>357430745</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -55058,6 +55508,7 @@
       <g:item_group_id>357430745</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -55154,6 +55605,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564852065</g:id>
@@ -55173,6 +55625,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564852076</g:id>
@@ -55192,6 +55645,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564852082</g:id>
@@ -55211,6 +55665,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564853204</g:id>
@@ -56118,6 +56573,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881620</g:id>
@@ -56137,6 +56593,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881636</g:id>
@@ -56156,6 +56613,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881657</g:id>
@@ -56175,6 +56633,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881899</g:id>
@@ -56194,6 +56653,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881910</g:id>
@@ -56213,6 +56673,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881918</g:id>
@@ -56232,6 +56693,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564881929</g:id>
@@ -56251,6 +56713,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564882183</g:id>
@@ -56270,6 +56733,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564882201</g:id>
@@ -56289,6 +56753,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564882225</g:id>
@@ -56308,6 +56773,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564882246</g:id>
@@ -56327,6 +56793,7 @@
       <g:product_type>Oversize</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564882501</g:id>
@@ -56441,7 +56908,7 @@
       <g:title>Meia Cano Médio Mcd Classic Preto (39/43 / Preto Ver25/In25/Ve26)</g:title>
       <g:description>Ref.: 11116601-PPP LINHA CLASSICS Produtos clássicos e contemporâneos. São peças minimalistas onde exploramos apenas o logo como assinaturas. Disponíveis em mais opções de cores; são produtos coringas na coleção. Especificações do produto: · Meia cano alto. · Estampa na sola e na lateral. · Tecido Jaquard. Composição: 85% algodão, 11% poliamida, 2% elastodieno, 2% elastano.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>79.00 BRL</g:price>
       
@@ -56661,7 +57128,6 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
-      <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -56682,7 +57148,6 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
-      <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -56703,7 +57168,6 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
-      <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -56724,7 +57188,6 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
-      <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
@@ -56901,6 +57364,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564896480</g:id>
@@ -56920,6 +57384,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564896509</g:id>
@@ -56939,6 +57404,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564896537</g:id>
@@ -56958,6 +57424,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564896590</g:id>
@@ -56977,6 +57444,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564896624</g:id>
@@ -56996,6 +57464,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Sarja </g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564897979</g:id>
@@ -57261,6 +57730,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564905662</g:id>
@@ -57279,13 +57749,14 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564905690</g:id>
       <g:title>Camisa Comfort Lb Branco (G / Branco Most)</g:title>
       <g:description>Ref.: 12624808-BBB LINHA BRANCA Especificações do produto: · Modelagem Comfort · Reforço de gola . · Botões abaixo da gola. · Bolso frontal na lateral. · Vista com revel interno + Botão personalizado. · Tag personalizado MCD. Composição: 100% algodão. SUMMER 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>449.00 BRL</g:price>
       
@@ -57297,13 +57768,14 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564905708</g:id>
       <g:title>Camisa Comfort Lb Branco (GG / Branco Most)</g:title>
       <g:description>Ref.: 12624808-BBB LINHA BRANCA Especificações do produto: · Modelagem Comfort · Reforço de gola . · Botões abaixo da gola. · Bolso frontal na lateral. · Vista com revel interno + Botão personalizado. · Tag personalizado MCD. Composição: 100% algodão. SUMMER 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>449.00 BRL</g:price>
       
@@ -57315,6 +57787,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564907276</g:id>
@@ -58352,6 +58825,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564935397</g:id>
@@ -58371,6 +58845,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564935434</g:id>
@@ -58390,6 +58865,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564935447</g:id>
@@ -58409,6 +58885,7 @@
       <g:product_type>Calças</g:product_type>
       <g:product_type>Utility</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564935738</g:id>
