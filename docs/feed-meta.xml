@@ -1640,6 +1640,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1660,6 +1661,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1680,6 +1682,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1700,6 +1703,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1807,6 +1811,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1828,6 +1833,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1849,6 +1855,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1870,6 +1877,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1891,6 +1899,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1912,6 +1921,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1933,6 +1943,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -1954,6 +1965,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -2544,6 +2556,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563663883</g:id>
@@ -2561,6 +2574,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563663907</g:id>
@@ -2578,6 +2592,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563663942</g:id>
@@ -2595,6 +2610,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563672335</g:id>
@@ -3250,6 +3266,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563689849</g:id>
@@ -3270,6 +3287,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563689932</g:id>
@@ -3290,6 +3308,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563689995</g:id>
@@ -3310,6 +3329,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563690089</g:id>
@@ -3330,6 +3350,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563690151</g:id>
@@ -3350,6 +3371,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563696814</g:id>
@@ -3443,6 +3465,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563697916</g:id>
@@ -3460,6 +3483,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563697961</g:id>
@@ -3477,6 +3501,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563698046</g:id>
@@ -3494,6 +3519,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563701860</g:id>
@@ -5798,6 +5824,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563793372</g:id>
@@ -5817,6 +5844,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563793397</g:id>
@@ -5836,6 +5864,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563793412</g:id>
@@ -5855,6 +5884,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563793444</g:id>
@@ -5874,6 +5904,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563793458</g:id>
@@ -5893,6 +5924,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563797121</g:id>
@@ -6680,6 +6712,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563824425</g:id>
@@ -6697,6 +6730,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563824440</g:id>
@@ -6714,6 +6748,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563824472</g:id>
@@ -6731,6 +6766,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563824877</g:id>
@@ -7984,6 +8020,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563851123</g:id>
@@ -8003,6 +8040,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563851139</g:id>
@@ -8022,6 +8060,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563851154</g:id>
@@ -8041,6 +8080,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563855073</g:id>
@@ -8505,6 +8545,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -8526,6 +8567,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -8547,6 +8589,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -8568,6 +8611,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -10240,6 +10284,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563893840</g:id>
@@ -10257,6 +10302,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563893865</g:id>
@@ -10274,6 +10320,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563893879</g:id>
@@ -10291,6 +10338,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563895151</g:id>
@@ -10311,6 +10359,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -10332,6 +10381,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -10353,6 +10403,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -10374,6 +10425,7 @@
       <g:product_type>Jaquetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -11026,6 +11078,7 @@
       <g:size>36</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563915566</g:id>
@@ -11043,6 +11096,7 @@
       <g:size>38</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563915575</g:id>
@@ -11060,6 +11114,7 @@
       <g:size>40</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563915615</g:id>
@@ -11077,6 +11132,7 @@
       <g:size>42</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563915628</g:id>
@@ -11094,6 +11150,7 @@
       <g:size>44</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563915640</g:id>
@@ -11111,6 +11168,7 @@
       <g:size>46</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563915653</g:id>
@@ -11128,6 +11186,7 @@
       <g:size>48</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563919513</g:id>
@@ -14902,6 +14961,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563991484</g:id>
@@ -14919,6 +14979,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563991491</g:id>
@@ -14936,6 +14997,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563991498</g:id>
@@ -14953,6 +15015,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563994183</g:id>
@@ -16110,6 +16173,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999401</g:id>
@@ -16131,6 +16195,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999404</g:id>
@@ -16152,6 +16217,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999405</g:id>
@@ -16173,6 +16239,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999409</g:id>
@@ -16194,6 +16261,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999412</g:id>
@@ -16215,6 +16283,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1563999747</g:id>
@@ -16473,6 +16542,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564004176</g:id>
@@ -16493,6 +16563,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564004186</g:id>
@@ -16513,6 +16584,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564004194</g:id>
@@ -16533,6 +16605,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564004198</g:id>
@@ -16553,6 +16626,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564004207</g:id>
@@ -16573,6 +16647,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564004948</g:id>
@@ -16894,6 +16969,7 @@
       <g:item_group_id>357160599</g:item_group_id>
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -16911,6 +16987,7 @@
       <g:item_group_id>357160599</g:item_group_id>
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -16928,6 +17005,7 @@
       <g:item_group_id>357160599</g:item_group_id>
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -16945,6 +17023,7 @@
       <g:item_group_id>357160599</g:item_group_id>
       <g:size>G4</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -18127,6 +18206,7 @@
       <g:item_group_id>357162616</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -18144,6 +18224,7 @@
       <g:item_group_id>357162616</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -18161,6 +18242,7 @@
       <g:item_group_id>357162616</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -18178,6 +18260,7 @@
       <g:item_group_id>357162616</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -18553,6 +18636,7 @@
       <g:size>G1</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564018726</g:id>
@@ -18570,6 +18654,7 @@
       <g:size>G2</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564018728</g:id>
@@ -18587,6 +18672,7 @@
       <g:size>G3</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564019393</g:id>
@@ -19258,6 +19344,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564025035</g:id>
@@ -19275,6 +19362,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564025038</g:id>
@@ -19292,6 +19380,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564025043</g:id>
@@ -19309,6 +19398,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564027163</g:id>
@@ -19326,6 +19416,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564027166</g:id>
@@ -19343,6 +19434,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564027168</g:id>
@@ -19360,6 +19452,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564027172</g:id>
@@ -19377,6 +19470,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564027963</g:id>
@@ -19942,6 +20036,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564028763</g:id>
@@ -19961,6 +20056,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564028765</g:id>
@@ -19980,6 +20076,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564028769</g:id>
@@ -19999,6 +20096,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564028775</g:id>
@@ -20018,6 +20116,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564028778</g:id>
@@ -20037,6 +20136,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564028898</g:id>
@@ -20540,6 +20640,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031520</g:id>
@@ -20559,6 +20660,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031521</g:id>
@@ -20578,6 +20680,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031534</g:id>
@@ -20597,6 +20700,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031547</g:id>
@@ -20616,6 +20720,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031552</g:id>
@@ -20635,6 +20740,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564031726</g:id>
@@ -21524,6 +21630,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069674</g:id>
@@ -21543,6 +21650,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069677</g:id>
@@ -21562,6 +21670,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069679</g:id>
@@ -21581,6 +21690,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069685</g:id>
@@ -21600,6 +21710,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564069689</g:id>
@@ -21619,6 +21730,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070142</g:id>
@@ -21707,6 +21819,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070657</g:id>
@@ -21727,6 +21840,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070660</g:id>
@@ -21747,6 +21861,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070664</g:id>
@@ -21767,6 +21882,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070666</g:id>
@@ -21787,6 +21903,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070677</g:id>
@@ -21807,6 +21924,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564070750</g:id>
@@ -22610,6 +22728,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564077899</g:id>
@@ -22629,6 +22748,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564077922</g:id>
@@ -22648,6 +22768,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564077929</g:id>
@@ -22667,6 +22788,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564078216</g:id>
@@ -22752,6 +22874,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564078840</g:id>
@@ -22769,6 +22892,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564078844</g:id>
@@ -22786,6 +22910,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564078865</g:id>
@@ -22803,6 +22928,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564078923</g:id>
@@ -23949,6 +24075,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564090492</g:id>
@@ -23968,6 +24095,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564090501</g:id>
@@ -23987,6 +24115,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564090507</g:id>
@@ -24006,6 +24135,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564092179</g:id>
@@ -25662,6 +25792,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25682,6 +25813,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25702,6 +25834,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25722,6 +25855,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25744,6 +25878,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25766,6 +25901,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25788,6 +25924,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25810,6 +25947,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25830,6 +25968,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25850,6 +25989,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25870,6 +26010,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25890,6 +26031,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25912,6 +26054,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25934,6 +26077,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25956,6 +26100,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25978,6 +26123,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -25998,6 +26144,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26018,6 +26165,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26038,6 +26186,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26058,6 +26207,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26078,6 +26228,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26098,6 +26249,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26118,6 +26270,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26138,6 +26291,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -26388,6 +26542,7 @@
       <g:item_group_id>357210062</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -26405,6 +26560,7 @@
       <g:item_group_id>357210062</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -26422,6 +26578,7 @@
       <g:item_group_id>357210062</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -26439,6 +26596,7 @@
       <g:item_group_id>357210062</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -27538,6 +27696,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564210781</g:id>
@@ -27555,6 +27714,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564210794</g:id>
@@ -27572,6 +27732,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564210828</g:id>
@@ -27589,6 +27750,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564210843</g:id>
@@ -27606,6 +27768,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564217448</g:id>
@@ -27751,6 +27914,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27771,6 +27935,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27791,6 +27956,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27811,6 +27977,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27831,6 +27998,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27851,6 +28019,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27871,6 +28040,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -27891,6 +28061,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -28248,6 +28419,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564250199</g:id>
@@ -28267,6 +28439,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564250213</g:id>
@@ -28286,6 +28459,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564250224</g:id>
@@ -28305,6 +28479,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564251217</g:id>
@@ -28485,6 +28660,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564254885</g:id>
@@ -28505,6 +28681,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564254891</g:id>
@@ -28525,6 +28702,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564254903</g:id>
@@ -28545,6 +28723,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564254920</g:id>
@@ -28565,6 +28744,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564254933</g:id>
@@ -28585,6 +28765,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564255410</g:id>
@@ -28687,6 +28868,7 @@
       <g:size>38</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564257263</g:id>
@@ -28704,6 +28886,7 @@
       <g:size>40</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564257273</g:id>
@@ -28721,6 +28904,7 @@
       <g:size>42</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564257289</g:id>
@@ -28738,6 +28922,7 @@
       <g:size>44</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564257305</g:id>
@@ -28755,6 +28940,7 @@
       <g:size>46</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564257312</g:id>
@@ -28772,6 +28958,7 @@
       <g:size>48</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564257853</g:id>
@@ -31767,6 +31954,7 @@
       <g:size>38</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564332116</g:id>
@@ -31784,6 +31972,7 @@
       <g:size>40</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564332133</g:id>
@@ -31801,6 +31990,7 @@
       <g:size>42</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564332150</g:id>
@@ -31818,6 +32008,7 @@
       <g:size>44</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564332166</g:id>
@@ -31835,6 +32026,7 @@
       <g:size>46</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564332178</g:id>
@@ -31852,6 +32044,7 @@
       <g:size>48</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564333504</g:id>
@@ -33377,6 +33570,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564403501</g:id>
@@ -33396,6 +33590,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564403522</g:id>
@@ -33415,6 +33610,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564403548</g:id>
@@ -33434,6 +33630,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564420103</g:id>
@@ -33810,6 +34007,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564440631</g:id>
@@ -33830,6 +34028,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564440662</g:id>
@@ -33850,6 +34049,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564440706</g:id>
@@ -33870,6 +34070,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564440723</g:id>
@@ -33890,6 +34091,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564440757</g:id>
@@ -33910,6 +34112,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564447315</g:id>
@@ -34640,6 +34843,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564475075</g:id>
@@ -34659,6 +34863,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564475085</g:id>
@@ -34678,6 +34883,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564475101</g:id>
@@ -34697,6 +34903,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564486579</g:id>
@@ -36267,6 +36474,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564538228</g:id>
@@ -36287,6 +36495,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564538236</g:id>
@@ -36307,6 +36516,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564538246</g:id>
@@ -36327,6 +36537,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564538279</g:id>
@@ -36347,6 +36558,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564538290</g:id>
@@ -36367,6 +36579,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564541711</g:id>
@@ -36383,6 +36596,7 @@
       <g:item_group_id>357331354</g:item_group_id>
       <g:size>38</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -36400,6 +36614,7 @@
       <g:item_group_id>357331354</g:item_group_id>
       <g:size>40</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -36417,6 +36632,7 @@
       <g:item_group_id>357331354</g:item_group_id>
       <g:size>42</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -36434,6 +36650,7 @@
       <g:item_group_id>357331354</g:item_group_id>
       <g:size>44</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -36451,6 +36668,7 @@
       <g:item_group_id>357331354</g:item_group_id>
       <g:size>46</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -36468,6 +36686,7 @@
       <g:item_group_id>357331354</g:item_group_id>
       <g:size>48</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -36643,6 +36862,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564542875</g:id>
@@ -36665,6 +36885,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564542887</g:id>
@@ -36687,6 +36908,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564542909</g:id>
@@ -36709,6 +36931,7 @@
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Arcanjos</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564546136</g:id>
@@ -36804,6 +37027,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564548223</g:id>
@@ -36823,6 +37047,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564548243</g:id>
@@ -36842,6 +37067,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564548251</g:id>
@@ -36861,6 +37087,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564548534</g:id>
@@ -39031,6 +39258,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564583429</g:id>
@@ -39051,6 +39279,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564583451</g:id>
@@ -39071,6 +39300,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564583457</g:id>
@@ -39091,6 +39321,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564588703</g:id>
@@ -39111,6 +39342,8 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564588780</g:id>
@@ -39131,6 +39364,8 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564588803</g:id>
@@ -39151,6 +39386,8 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564588812</g:id>
@@ -39171,6 +39408,8 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564589011</g:id>
@@ -39432,6 +39671,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564592283</g:id>
@@ -39451,6 +39691,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564592302</g:id>
@@ -39470,6 +39711,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564592316</g:id>
@@ -39489,6 +39731,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564592842</g:id>
@@ -40820,6 +41063,7 @@
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564622604</g:id>
@@ -40840,6 +41084,7 @@
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564622623</g:id>
@@ -40860,6 +41105,7 @@
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564622641</g:id>
@@ -40880,6 +41126,7 @@
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564623480</g:id>
@@ -42920,6 +43167,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564660717</g:id>
@@ -42940,6 +43188,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564660725</g:id>
@@ -42960,6 +43209,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564660732</g:id>
@@ -42980,6 +43230,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564660745</g:id>
@@ -43000,6 +43251,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564660756</g:id>
@@ -43020,6 +43272,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564663934</g:id>
@@ -43869,6 +44122,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564674301</g:id>
@@ -43888,6 +44142,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564674315</g:id>
@@ -43907,6 +44162,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564674324</g:id>
@@ -43926,6 +44182,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564674333</g:id>
@@ -43945,6 +44202,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564674347</g:id>
@@ -43964,6 +44222,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676030</g:id>
@@ -43984,6 +44243,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676044</g:id>
@@ -44004,6 +44264,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676056</g:id>
@@ -44024,6 +44285,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564676064</g:id>
@@ -44044,6 +44306,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564678981</g:id>
@@ -45338,6 +45601,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -45360,6 +45624,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -45382,6 +45647,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -45404,6 +45670,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -47497,6 +47764,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564736111</g:id>
@@ -47516,6 +47784,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564736114</g:id>
@@ -47535,6 +47804,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564736116</g:id>
@@ -47554,6 +47824,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564736196</g:id>
@@ -47760,6 +48031,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564737540</g:id>
@@ -47780,6 +48052,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564737551</g:id>
@@ -47800,6 +48073,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564737557</g:id>
@@ -47820,6 +48094,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564737561</g:id>
@@ -47840,6 +48115,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564737564</g:id>
@@ -47860,6 +48136,7 @@
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564738957</g:id>
@@ -48301,6 +48578,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564742343</g:id>
@@ -48321,6 +48599,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564742348</g:id>
@@ -48341,6 +48620,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564742351</g:id>
@@ -48361,6 +48641,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564743527</g:id>
@@ -49113,6 +49394,7 @@
       <g:item_group_id>357403948</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49130,6 +49412,7 @@
       <g:item_group_id>357403948</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49147,6 +49430,7 @@
       <g:item_group_id>357403948</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49164,6 +49448,7 @@
       <g:item_group_id>357403948</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49181,6 +49466,7 @@
       <g:item_group_id>357404042</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49198,6 +49484,7 @@
       <g:item_group_id>357404042</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49215,6 +49502,7 @@
       <g:item_group_id>357404042</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49232,6 +49520,7 @@
       <g:item_group_id>357404042</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49325,6 +49614,7 @@
       <g:item_group_id>357404654</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49342,6 +49632,7 @@
       <g:item_group_id>357404654</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49359,6 +49650,7 @@
       <g:item_group_id>357404654</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -49376,6 +49668,7 @@
       <g:item_group_id>357404654</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -50939,6 +51232,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564801090</g:id>
@@ -50959,6 +51253,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564801091</g:id>
@@ -50979,6 +51274,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564801093</g:id>
@@ -50999,6 +51295,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564801680</g:id>
@@ -51455,6 +51752,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564803288</g:id>
@@ -51476,6 +51774,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564803289</g:id>
@@ -51497,6 +51796,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564803292</g:id>
@@ -51518,6 +51818,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564803294</g:id>
@@ -51539,6 +51840,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564803296</g:id>
@@ -51560,6 +51862,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Golden Era</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564803443</g:id>
@@ -55731,6 +56034,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -55751,6 +56055,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -55771,6 +56076,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -55791,6 +56097,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -56250,6 +56557,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -56271,6 +56579,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -56292,6 +56601,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -56313,6 +56623,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -56351,6 +56662,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564893694</g:id>
@@ -56371,6 +56683,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564893714</g:id>
@@ -56391,6 +56704,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564893742</g:id>
@@ -56411,6 +56725,7 @@
       <g:product_type>Moletons</g:product_type>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564895378</g:id>
@@ -56697,6 +57012,7 @@
       <g:item_group_id>357453807</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -56714,6 +57030,7 @@
       <g:item_group_id>357453807</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -56731,6 +57048,7 @@
       <g:item_group_id>357453807</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -56748,6 +57066,7 @@
       <g:item_group_id>357453807</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -57317,6 +57636,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564912324</g:id>
@@ -57334,6 +57654,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564912336</g:id>
@@ -57351,6 +57672,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564912352</g:id>
@@ -57368,6 +57690,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564914775</g:id>
@@ -57769,6 +58092,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564924822</g:id>
@@ -57788,6 +58112,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564924845</g:id>
@@ -57807,6 +58132,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564924859</g:id>
@@ -57826,6 +58152,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564927305</g:id>
@@ -58312,6 +58639,7 @@
       <g:item_group_id>357474220</g:item_group_id>
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -58329,6 +58657,7 @@
       <g:item_group_id>357474220</g:item_group_id>
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -58346,6 +58675,7 @@
       <g:item_group_id>357474220</g:item_group_id>
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -58363,6 +58693,7 @@
       <g:item_group_id>357474220</g:item_group_id>
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
     <item>
@@ -58453,6 +58784,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564958677</g:id>
@@ -58470,6 +58802,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564958693</g:id>
@@ -58487,6 +58820,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564958708</g:id>
@@ -58504,6 +58838,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564959124</g:id>
@@ -58521,6 +58856,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564959146</g:id>
@@ -58538,6 +58874,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564959164</g:id>
@@ -58555,6 +58892,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564959179</g:id>
@@ -58572,6 +58910,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564959643</g:id>
@@ -58661,6 +59000,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564960164</g:id>
@@ -58678,6 +59018,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564960183</g:id>
@@ -58695,6 +59036,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564960198</g:id>
@@ -58712,6 +59054,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564960465</g:id>
@@ -59105,6 +59448,7 @@
       <g:size>P</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564967491</g:id>
@@ -59122,6 +59466,7 @@
       <g:size>M</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564967548</g:id>
@@ -59139,6 +59484,7 @@
       <g:size>G</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564967604</g:id>
@@ -59156,6 +59502,7 @@
       <g:size>GG</g:size>
       <g:product_type>Outlet</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564969671</g:id>
@@ -59687,6 +60034,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567192279</g:id>
@@ -59706,6 +60054,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567192281</g:id>
@@ -59725,6 +60074,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567192282</g:id>
@@ -59744,6 +60094,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567193239</g:id>
@@ -59781,6 +60132,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567193293</g:id>
@@ -59800,6 +60152,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567193297</g:id>
@@ -59819,6 +60172,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567193303</g:id>
@@ -59838,6 +60192,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567193305</g:id>
@@ -59857,6 +60212,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567193308</g:id>
@@ -59876,6 +60232,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1567196941</g:id>
@@ -68304,6 +68661,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1575555686</g:id>
@@ -68324,6 +68682,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1575555696</g:id>
@@ -68344,6 +68703,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1575555707</g:id>
@@ -68364,6 +68724,7 @@
       <g:product_type>Moletom</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1575755424</g:id>
