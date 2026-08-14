@@ -33018,7 +33018,7 @@
       <g:title>Calça Denim Slim Fit Indigo (44 / Indigo Mostruário)</g:title>
       <g:description>Ref.: 12413909-III Especificações do produto: · Modelagem Slim Fit. · Jeans com lavagem e detalhes destroyed. · Bolsos frontais embutidos. · Bolso isqueiro. · Bolsos traseiros com detalhe espada. · Cós com passantes para cinto. · Fechamento em zíper e botão. · Caveira MCD metalizada na lateral. · Etiqueta personalizada na parte traseira. · Denim com elastano. Composição: 98% algodão; 2% elastano. MCD winter [OUTSIDE] 24 | LINHA LOGOMANIA Uma linha que traz a identidade MCD trabalhada em diversas formas e versões de logos, tipografias e design voltados para o institucional da marca. Linha que explora técnicas únicas e tecidos diferenciados, destacando o CORE da marca.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>439.00 BRL</g:price>
       
@@ -53160,7 +53160,7 @@
       <g:title>Dads Cap Mcd Caligraffiti Marinho (U / Marinho Mostruario)</g:title>
       <g:description>Ref.: 12626560-MR1 Linha Caligraffiti. Especificações do produto: · Modelagem Aba curva. · Estampa MCD caligraffiti. · Fita personalizada MCD. · Forro preto. · Dad cap. · Fechamento com fivela de plástico tic tac. · Fita de gorgurão. · Etiqueta bandeira espada no fechamento. · Tag personalizado MCD over the top. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>22</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>21</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       
@@ -55822,7 +55822,7 @@
       <g:title>T-Shirt Arcanjo Rafael Branco (GG / Branco)</g:title>
       <g:description>Ref.: 12613004-BBB Linha Arcanjos. Especificações do produto: · Modelagem regular. · Estampa costas a energia etérea da cura + espada. · Estampa frontal arcanjo Rafael. · Estampa alta ordem nas costas. · Etiqueta dupla MCD acima da barra frontal. · Estampa interna com descrição especial do Arcanjo. · Reforço de gola. . Tag personalizado MCD. Composição: 100% Algodão. WINTER 26 [ TEMPUS | ARCANJOS ] MCD. Do hebraico, significa “Deus cura” ou “Medicina de Deus” e é invocado por pessoas que buscam cura para si mesmas ou para outros. É um aliado na restauração da saúde física, emocional e espiritual. Rafael é reconhecido como protetor dos viajantes, garantindo a segurança e o bem-estar nas jornadas.Forte guia espiritual que orienta decisões sábias e conscientes.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -70401,6 +70401,8 @@
       <g:size>M</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Merch</g:product_type>
     </item>
     <item>
       <g:id>1577097766</g:id>
@@ -70418,6 +70420,8 @@
       <g:size>G</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Merch</g:product_type>
     </item>
     <item>
       <g:id>1577097781</g:id>
@@ -70435,6 +70439,8 @@
       <g:size>GG</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Merch</g:product_type>
     </item>
     <item>
       <g:id>1577097784</g:id>
@@ -70452,6 +70458,8 @@
       <g:size>2XL</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Merch</g:product_type>
     </item>
     <item>
       <g:id>1577097793</g:id>
@@ -70469,6 +70477,8 @@
       <g:size>G2</g:size>
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Merch</g:product_type>
     </item>
   </channel>
 </rss>
