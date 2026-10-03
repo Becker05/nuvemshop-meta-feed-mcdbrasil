@@ -20359,8 +20359,8 @@
       <g:id>1563998552</g:id>
       <g:title>T-Shirt Regular Espada Corrente Branco (P / Branco)</g:title>
       <g:description>Ref.: 12622816-BBB Especificações do produto: · Linha Fúria. · Modelagem regular. · Estampa Espada Corrente no peito. · Reforço de gola. · Etiqueta bandeira vertical embutida na lateral. · Tag personalizado MCD. Composição: 100% Algodão. SUMMER 25/26 [ COLAPSO | FÚRIA ] MCD. A Linha Fúria traz a percepção de uma civilização que sobreviveria a uma devastação e tenta se reestruturar em novas adversidades.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -31830,7 +31830,7 @@
       <g:title>Birken Mcd Green Feminino Verde Militar (36 / Verde Militar)</g:title>
       <g:description>Ref.: 124210618-VMT MCD MEX // LA TRADICÍON O México retratado através de sua cultura ancestral e comportamento atual. “La tradición” vem para relatar a história, tradições e costumes diversos do México. LINHA LOGOMANIA MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design voltados para o lado institucional da marca. Especificações do produto: · Cor Preta. · Solado Anatômico. · Tiras frontais . · Assinatura MCD na sola. Composição: Sola de borracha e tira PVC.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.90 BRL</g:price>
       
@@ -100756,7 +100756,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121152127</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610552670</g:id>
@@ -100775,7 +100776,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121152134</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610552683</g:id>
@@ -100794,7 +100796,8 @@
       <g:color>Preto</g:color>
       <g:gtin>7900121152141</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610564029</g:id>
@@ -100815,6 +100818,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610564031</g:id>
@@ -100835,6 +100840,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610564036</g:id>
@@ -100855,6 +100862,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610564042</g:id>
@@ -100875,6 +100884,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610565845</g:id>
@@ -100895,6 +100906,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610565853</g:id>
@@ -100915,6 +100928,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610565877</g:id>
@@ -100935,6 +100950,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610565890</g:id>
@@ -100955,6 +100972,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578128</g:id>
@@ -100975,6 +100994,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578144</g:id>
@@ -100995,6 +101016,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578163</g:id>
@@ -101015,6 +101038,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578170</g:id>
@@ -101035,6 +101060,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578250</g:id>
@@ -101055,6 +101082,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578258</g:id>
@@ -101075,6 +101104,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578262</g:id>
@@ -101095,6 +101126,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578264</g:id>
@@ -101115,6 +101148,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578341</g:id>
@@ -101135,6 +101170,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578359</g:id>
@@ -101155,6 +101192,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578369</g:id>
@@ -101175,6 +101214,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610578391</g:id>
@@ -101195,11 +101236,13 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610776847</g:id>
       <g:title>Regata Box Fit Mcd Bege Nevoeiro (P / Bege Nevoeiro)</g:title>
-      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
+      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core Division para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
@@ -101215,11 +101258,13 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610776863</g:id>
       <g:title>Regata Box Fit Mcd Bege Nevoeiro (M / Bege Nevoeiro)</g:title>
-      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
+      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core Division para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
@@ -101235,11 +101280,13 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610776872</g:id>
       <g:title>Regata Box Fit Mcd Bege Nevoeiro (G / Bege Nevoeiro)</g:title>
-      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
+      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core Division para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
@@ -101255,11 +101302,13 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1610776885</g:id>
       <g:title>Regata Box Fit Mcd Bege Nevoeiro (GG / Bege Nevoeiro)</g:title>
-      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
+      <g:description>Ref.: 12722202-BGN Regata Especial MCD A Regata Especial MCD leva o essencial da More Core Division para uma construção limpa, pesada e sem excesso. Confeccionada em 100% algodão , possui modelagem machão, gola mais estruturada em ribana e cavas com acabamento a fio. A assinatura MCD aparece de forma minimalista na frente, enquanto os detalhes More Core reforçam a identidade da peça. Modelagem: Machão Composição: 100% algodão Tecido: Malha 2CBS Gola: Ribana 2x1 Detalhes: Cava a fio e etiqueta More Core Grade: P ao GG Referência: 1272.2202 MCD — Core is about originality, not newness.</g:description>
       <g:availability>in stock</g:availability>
       <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
@@ -101275,6 +101324,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
   </channel>
 </rss>
