@@ -6164,6 +6164,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -6187,6 +6189,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -6210,6 +6214,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -6233,6 +6239,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -6259,6 +6267,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -6284,6 +6294,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -6309,6 +6321,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -6334,6 +6348,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
@@ -8312,6 +8328,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -8338,6 +8355,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -8364,6 +8382,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -8390,6 +8409,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -14376,6 +14396,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
@@ -14399,6 +14421,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
@@ -14422,6 +14446,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
@@ -14445,6 +14471,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
       <g:product_type>PROMO 60%</g:product_type>
     </item>
@@ -21849,6 +21877,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -21870,6 +21900,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -21891,6 +21923,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
     </item>
     <item>
@@ -48424,6 +48458,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
@@ -48449,6 +48485,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
@@ -48474,6 +48512,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
@@ -48497,6 +48537,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -48520,6 +48562,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -48543,6 +48587,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -48566,6 +48612,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>T-shirts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -52189,8 +52237,8 @@
       <g:id>1564626099</g:id>
       <g:title>Calça Cargo Preto (40 / Preto)</g:title>
       <g:description>Ref.: 12414604-PPP Especificações do produto: · Sarja estonada. · Bolsos frontais e bolsos traseiros embutidos. · Fechamento em zíper e botão. · Cós com passantes para cinto e reguladores com botões. · Barras com cordão regulador. · Bolsos Cargo laterais. · Caveira MCD metalizada na lateral. Composição: 100% algodão. LINHA LOGOMANIA Uma linha que traz a identidade MCD trabalhada em diversas formas e versões de logos, tipografias e design voltados para o institucional da marca. Linha que explora técnicas únicas e tecidos diferenciados, destacando o CORE da marca. · Modelagem cargo. modelagem reta e levemente ampla, proporcionando maior conforto e liberdade de movimento. Possui bolsos laterais funcionais, característicos do estilo cargo, que acrescentam praticidade e reforçam a estética utilitária da peça.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>579.00 BRL</g:price>
       
@@ -59430,6 +59478,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -59452,6 +59502,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -59474,6 +59526,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -59496,6 +59550,8 @@
       
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 50% - TESTE API</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -64664,6 +64720,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -64690,6 +64747,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -64716,6 +64774,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -64742,6 +64801,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69737,6 +69797,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69763,6 +69824,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69789,6 +69851,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69815,6 +69878,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69841,6 +69905,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69867,6 +69932,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69893,6 +69959,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -69919,6 +69986,7 @@
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
@@ -70709,6 +70777,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -70735,6 +70805,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -70761,6 +70833,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -70787,6 +70861,8 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Blusas</g:product_type>
       <g:product_type>Moletons</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
       <g:product_type>PROMO 40% - Categoria</g:product_type>
       <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
@@ -76550,7 +76626,7 @@
       <g:title>Dad Hat Mcd Navy (U / Navy)</g:title>
       <g:description>Ref.: 12626513-NVY Especificações do produto: · Estampa espada. · Viseira em tecido. · Ilhós bordado. · Fita interna personalizada. · Fecho com fivela ajustadora. · Bordado MCD na parte de trás. · Etiqueta MCD aplicada no fechamento. · Tag personalizado MCD. Composição: 100% Poliéster.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>42</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>41</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>249.00 BRL</g:price>
       
@@ -77752,6 +77828,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1574386199</g:id>
@@ -77774,6 +77851,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1574386203</g:id>
@@ -77796,6 +77874,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1574386209</g:id>
@@ -77818,6 +77897,7 @@
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1574386318</g:id>
@@ -96906,6 +96986,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1606241139</g:id>
@@ -96927,6 +97009,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1606241145</g:id>
@@ -96948,6 +97032,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1606241154</g:id>
@@ -96969,6 +97055,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1606241162</g:id>
@@ -96990,6 +97078,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1606241177</g:id>
@@ -97011,6 +97101,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1606335862</g:id>
@@ -99215,7 +99307,7 @@
       <g:title>T-Shirt Especial Lava Preto (G / Preto)</g:title>
       <g:description>Ref.: 12512013-PPP T-Shirt Especial Lava MCD A T-Shirt Especial Lava MCD possui modelagem regular, construção em 100% algodão e acabamento de lavagem especial, que cria variações visuais características na superfície da peça. Confeccionada em malha 30.1, conta com gola em ribana 2x1 e estampa frontal ligada à identidade More Core Division , aplicada em técnica de toque zero. O modelo também recebe etiqueta bordada MCD na parte inferior. Modelagem: Regular Composição: 100% algodão Tecido: Malha 30.1 Gola: Ribana 2x1 Acabamento: Lavagem especial Estampa: Toque zero Grade: P ao GG Cor: Preto Referência: 1251.2013</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -99349,6 +99441,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1608821756</g:id>
@@ -99369,6 +99463,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1608821779</g:id>
@@ -99389,6 +99485,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1608821797</g:id>
@@ -99409,6 +99507,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
       <g:id>1608934707</g:id>
