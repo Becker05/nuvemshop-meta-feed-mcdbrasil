@@ -1080,8 +1080,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Boné</g:product_type>
-      <g:product_type>Outlet</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
       <g:id>1563597523</g:id>
@@ -1103,8 +1101,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Acessórios</g:product_type>
       <g:product_type>Boné</g:product_type>
-      <g:product_type>Outlet</g:product_type>
-      <g:product_type>LINHAS ESPECIAIS</g:product_type>
     </item>
     <item>
       <g:id>1563599888</g:id>
@@ -18327,8 +18323,8 @@
       <g:id>1563954635</g:id>
       <g:title>T-Shirt Regular More Core Division Quadr Marrom Ruina (P / Marrom Ruina)</g:title>
       <g:description>Ref.: 12622823-MRU Especificações do produto: · Linha Caligraffiti. · Modelagem regular. · Estampa MCD localizada no peito lateral. · Etiqueta bandeira vertical acima da barra. · Estampa MCD nas costas, aplicada abaixo da gola. · Reforço de gola. · Tag personalizado MCD. Composição: 100% Algodão. SUMMER 26 [ COLAPSO | CALIGRAFFITI ] MCD. Herança da raiz californiana da MCD. Uma linha que sempre está presente nas coleções.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>139.00 BRL</g:price>
       
@@ -19608,8 +19604,8 @@
       <g:id>1563968998</g:id>
       <g:title>Chinelo Slide Mcd Espada Branco (39/40 / Branco)</g:title>
       <g:description>Ref.: MCD10602-BBB Chinelo Slide MCD Espada. Especificações do produto: · Solado de EVA. · Cabedal Sintético. · Forro com Espuma Dublada.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>169.90 BRL</g:price>
       
@@ -25803,7 +25799,7 @@
       <g:title>T-Shirt Especial Lb Mcd Off White (P / Off White)</g:title>
       <g:description>Ref.: 12622018-OFW Especificações do produto: · Linha Branca. · Modelagem regular. · Etiqueta termocolante MCD no centro frontal. · Reforço de gola. · Etiqueta MCD vertical aplicada acima da barra costas. · Tag personalizado MCD Linha Branca. Composição: 84% Algodão 16% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -25845,7 +25841,7 @@
       <g:title>T-Shirt Especial Lb Mcd Off White (G / Off White)</g:title>
       <g:description>Ref.: 12622018-OFW Especificações do produto: · Linha Branca. · Modelagem regular. · Etiqueta termocolante MCD no centro frontal. · Reforço de gola. · Etiqueta MCD vertical aplicada acima da barra costas. · Tag personalizado MCD Linha Branca. Composição: 84% Algodão 16% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>14</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>239.00 BRL</g:price>
       
@@ -29680,7 +29676,7 @@
       <g:title>Moletom Canguru Fechado Mcd Preto (G / Preto)</g:title>
       <g:description>Ref.: 12613613-PPP Linha Logomania. Especificações do produto: · Modelagem Canguru fechado. · Estampa frontal logo MCD no peito. · Etiqueta vertical more core na lateral. · Bolso canguru. · Capuz com ajustador em cadarço. · Capuz forrado · Punho e barra em ribana. · Reforço de gola. · Etiqueta MCD no capuz. · Tag personalizado MCD. Composição: 67% Algodão 33% Poliéster. WINTER 26 [ TEMPUS | LOGOMANIA ] MCD. MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design inspirados em momentos atuais.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>2</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>489.00 BRL</g:price>
       
@@ -37094,7 +37090,7 @@
       <g:title>Calça Denim Loose Indigo (38 / Indigo)</g:title>
       <g:description>Ref.: 12423909-III Modelagem Loose, caracterizada por cintura média, quadril extra solto e pernas largas, resultando em um caimento amplo. MCD MEX // LA TRADICÍON O México retratado através de sua cultura ancestral e comportamento atual. “La tradición” vem para relatar a história, tradições e costumes diversos do México. LINHA LUCHA LIBRE Entretenimento histórico e característico do México conhecido por suas máscaras, cartazes e performances. Especificações do produto: · Modelagem loose. · Jeans claro lavado. · índigo 10OZ. · Bolsos frontais e traseiros. · Fechamento em zíper e botão. · Cós com passante para cinto. · Etiqueta traseira MCD. Composição: 100% algodão.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>10</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -39130,8 +39126,8 @@
       <g:id>1564152666</g:id>
       <g:title>Camiseta Especial 30 Anos Preto (P / Preto)</g:title>
       <g:description>Ref.: 12622025-PPP Especificações do produto: · Linha MCD 30 Anos. · Modelagem regular. · Patch bordado MCD 30 Anos no peito lateral. · Reforço de gola. · Estampa silk espada MCD aplicada no peito lateral. · Etiqueta espada 30 Anos aplicada acima da barra traseira. · Etiqueta espada aplicada na gola. · Tag especial com adesivos MCD 30 Anos. Composição: 100% Algodão. MCD 30 Anos / Edição Comemorativa</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>299.00 BRL</g:price>
       
@@ -47558,7 +47554,7 @@
       <g:title>Moletom Canguru Fechado Espada Creme Arcanjo (GG / Creme Arcanjo)</g:title>
       <g:description>Ref.: 12613614-CRA Linha Logomania. Especificações do produto: · Modelagem Canguru fechado. · Etiqueta pipa termocolante no peito lateral. · Bolso canguru. · Capuz com ajustador em cadarço. · Capuz forrado · Punho e barra em ribana. · Reforço de gola. · Etiqueta MCD no capuz. · Tag personalizado MCD. Composição: 41% Algodão 59% Poliéster. WINTER 26 [ TEMPUS | LOGOMANIA ] MCD. MCD em primeiro plano, essa linha trabalha todas as versões de logos, tipografias e design inspirados em momentos atuais.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>499.00 BRL</g:price>
       
@@ -48561,10 +48557,8 @@
       <g:color>Marinho</g:color>
       <g:gtin>1117006561</g:gtin>
       
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
-      <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355030</g:id>
@@ -48583,10 +48577,8 @@
       <g:color>Marinho</g:color>
       <g:gtin>1117006562</g:gtin>
       
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
-      <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355067</g:id>
@@ -48605,10 +48597,8 @@
       <g:color>Marinho</g:color>
       <g:gtin>7900121126326</g:gtin>
       
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
-      <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564355097</g:id>
@@ -48627,10 +48617,8 @@
       <g:color>Marinho</g:color>
       <g:gtin>1117006564</g:gtin>
       
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>Shop</g:product_type>
       <g:product_type>Camisa</g:product_type>
-      <g:product_type>PROMO 40% - Categoria</g:product_type>
-      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1564359306</g:id>
@@ -64591,7 +64579,7 @@
       <g:title>Polo Lb Vichy Off White (G / Off White)</g:title>
       <g:description>Ref.: 12622404-OFW Especificações do produto: · Linha Branca. · Modelagem polo. · Bordado espada no peito lateral. · Reforço de gola. · Etiqueta traseira MCD aplicada abaixo da gola. · Botões abaixo da gola. · Tag personalizado MCD Linha Branca. Composição: 70% Algodão 30% Poliéster. Summer 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>7</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>204.00 BRL</g:price>
       
@@ -73667,7 +73655,7 @@
       <g:title>T-Shirt Especial Mj Lettering Preto (G / Preto)</g:title>
       <g:description>Ref.: 12622030-PPP Especificações do produto: · Linha Lettering. · Modelagem regular. · Manga japonesa. · Estampa More Core + espada no peito lateral. · Reforço de gola. · Estampa More Core de ombro a ombro nas costas. · Etiqueta bordado “Core is About” + caveira aplicada acima da barra costas. · Tag personalizado MCD. Composição: 100% Algodão. Summer 25_26 / Conjuntos Lettering</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>12</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>13</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>199.00 BRL</g:price>
       
@@ -82964,7 +82952,7 @@
       <g:title>Camisa Comfort Lb Branco (G / Branco)</g:title>
       <g:description>Ref.: 12624808-BBB LINHA BRANCA Especificações do produto: · Modelagem Comfort · Reforço de gola . · Botões abaixo da gola. · Bolso frontal na lateral. · Vista com revel interno + Botão personalizado. · Tag personalizado MCD. Composição: 100% algodão. SUMMER 25_26 / Linha Branca</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>449.00 BRL</g:price>
       
@@ -85461,7 +85449,7 @@
       <g:title>Cinto Fivela Dupla Mcd Preto (G / Preto)</g:title>
       <g:description>Ref.: 125210521-PPP Especificações do produto: · Estampa silk more core. · Fivela metal. · Tag personalizado MCD. Composição: 95% Algodão. 5% Couro.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>9</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>8</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>279.00 BRL</g:price>
       
@@ -88152,6 +88140,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574343935</g:id>
@@ -88172,6 +88162,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574343948</g:id>
@@ -88192,6 +88184,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574343962</g:id>
@@ -88212,6 +88206,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574344065</g:id>
@@ -88328,7 +88324,7 @@
       <g:title>T-Shirt Especial Listrada Preto (M / Preto)</g:title>
       <g:description>Ref.: 12722016-PPP Linha Rayado Negro. Linha de listrados que traz a união do clássico e o contemporâneo. são tecidos especiais em fio tinto e maquinetados de diversas gramaturas, conferindo sofisticação e modernidade a essa padronagem atemporal. Especificações do produto: · Modelagem Regular. · Etiqueta pipa no peito lateral. · Reforço de gola. · Etiqueta decorativa MCD acima da barra costas. · Tag personalizado MCD. Composição: 69% Algodão 31% Poliéster Tecido Estocolmo 170G. SUMMER 26/27 / FIDELIDAD | RAYADO NEGRO ] MCD.</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>6</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>269.00 BRL</g:price>
       
@@ -89800,6 +89796,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574481895</g:id>
@@ -89820,6 +89818,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574481936</g:id>
@@ -89840,6 +89840,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574481972</g:id>
@@ -89860,6 +89862,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574482159</g:id>
@@ -89880,6 +89884,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574482169</g:id>
@@ -89900,6 +89906,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574482177</g:id>
@@ -89920,6 +89928,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574482181</g:id>
@@ -89940,6 +89950,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574504324</g:id>
@@ -90752,6 +90764,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574531249</g:id>
@@ -90772,6 +90786,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574531257</g:id>
@@ -90792,6 +90808,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574531287</g:id>
@@ -90812,6 +90830,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574531520</g:id>
@@ -92528,6 +92548,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574685035</g:id>
@@ -92548,6 +92570,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574685044</g:id>
@@ -92568,6 +92592,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574685052</g:id>
@@ -92588,6 +92614,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574697773</g:id>
@@ -92960,6 +92988,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574698447</g:id>
@@ -92980,6 +93010,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574698453</g:id>
@@ -93000,6 +93032,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574698454</g:id>
@@ -93020,6 +93054,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574698550</g:id>
@@ -93216,6 +93252,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574706991</g:id>
@@ -93236,6 +93274,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574707000</g:id>
@@ -93256,6 +93296,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574707004</g:id>
@@ -93276,6 +93318,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574707124</g:id>
@@ -93828,6 +93872,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574716807</g:id>
@@ -93848,6 +93894,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574716812</g:id>
@@ -93868,6 +93916,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574716818</g:id>
@@ -93888,6 +93938,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574717113</g:id>
@@ -94113,8 +94165,8 @@
       <g:id>1574717359</g:id>
       <g:title>Camiseta Regular Costas Anjo Preto (G / Preto)</g:title>
       <g:description>Ref.: 12722824-PPP Linha en ti confio. Uma linha de artes que une Jesus, a virgem Maria, terços e anjos. Na cultura mexicana pode ser descrita como uma expressão vibrante da arte sacra popular. essa mistura reflete sincretismo e devoção. Especificações do produto: · Modelagem box regular. · Estampa frontal MCD + Espada. · Reforço de gola. · Etiqueta bandeira embutida na lateral. · Estampa Angels MCD localizada nas costas. · Tag personalizado MCD. Composição: 100% Algodão. SUMMER 26/27 / FIDELIDAD| EN TI CONFIO | MCD.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>1</g:quantity_to_sell_on_facebook>
+      <g:availability>out of stock</g:availability>
+      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>189.00 BRL</g:price>
       
@@ -94172,6 +94224,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574717560</g:id>
@@ -94192,6 +94246,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574717563</g:id>
@@ -94212,6 +94268,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574717565</g:id>
@@ -94232,6 +94290,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574717621</g:id>
@@ -95132,6 +95192,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574736906</g:id>
@@ -95152,6 +95214,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574736908</g:id>
@@ -95172,6 +95236,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574736921</g:id>
@@ -95192,6 +95258,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737020</g:id>
@@ -95212,6 +95280,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737025</g:id>
@@ -95232,6 +95302,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737034</g:id>
@@ -95252,6 +95324,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737038</g:id>
@@ -95272,6 +95346,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737159</g:id>
@@ -95380,6 +95456,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737314</g:id>
@@ -95400,6 +95478,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737323</g:id>
@@ -95420,6 +95500,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737325</g:id>
@@ -95440,6 +95522,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1574737424</g:id>
@@ -97312,6 +97396,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97335,6 +97420,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97358,6 +97444,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97381,6 +97468,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97404,6 +97492,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97427,6 +97516,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97451,6 +97541,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97475,6 +97566,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97499,6 +97591,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97523,6 +97616,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97547,6 +97641,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97571,6 +97666,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97595,6 +97691,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97619,6 +97716,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97643,6 +97741,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97667,6 +97766,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97691,6 +97791,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -97715,6 +97816,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -98362,6 +98464,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1583241877</g:id>
@@ -98382,6 +98486,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1583241883</g:id>
@@ -98402,6 +98508,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1583241897</g:id>
@@ -98422,6 +98530,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1583874819</g:id>
@@ -101229,6 +101339,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101253,6 +101364,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101277,6 +101389,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101301,6 +101414,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101325,6 +101439,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101349,6 +101464,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101373,6 +101489,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101397,6 +101514,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101421,6 +101539,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101445,6 +101564,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101469,6 +101589,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -101493,6 +101614,7 @@
       <g:product_type>Boardwalk</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102057,6 +102179,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102081,6 +102204,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102105,6 +102229,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102129,6 +102254,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102153,6 +102279,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102177,6 +102304,7 @@
       <g:product_type>Jeans</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -102385,6 +102513,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1584750049</g:id>
@@ -102408,6 +102537,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1584750066</g:id>
@@ -102431,6 +102561,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1584750094</g:id>
@@ -102454,6 +102585,7 @@
       <g:product_type>Outlet</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Boxfit</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1584821640</g:id>
@@ -103063,6 +103195,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -103085,6 +103218,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -103107,6 +103241,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -103129,6 +103264,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -103326,6 +103462,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590867211</g:id>
@@ -103346,6 +103484,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590867218</g:id>
@@ -103366,6 +103506,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590867250</g:id>
@@ -103386,6 +103528,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876036</g:id>
@@ -103583,6 +103727,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -103605,6 +103750,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -103627,6 +103773,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -103649,6 +103796,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -103671,6 +103819,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -103693,6 +103842,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -103712,7 +103862,8 @@
       <g:color>Bege Poeira</g:color>
       <g:gtin>7900121131054</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876806</g:id>
@@ -103731,7 +103882,8 @@
       <g:color>Bege Poeira</g:color>
       <g:gtin>7900121131061</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876823</g:id>
@@ -103750,7 +103902,8 @@
       <g:color>Bege Poeira</g:color>
       <g:gtin>7900121131078</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876828</g:id>
@@ -103769,7 +103922,8 @@
       <g:color>Bege Poeira</g:color>
       <g:gtin>7900121131085</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876929</g:id>
@@ -103788,7 +103942,8 @@
       <g:color>Creme Arcanjo</g:color>
       <g:gtin>7900121130934</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876933</g:id>
@@ -103807,7 +103962,8 @@
       <g:color>Creme Arcanjo</g:color>
       <g:gtin>7900121130941</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876939</g:id>
@@ -103826,7 +103982,8 @@
       <g:color>Creme Arcanjo</g:color>
       <g:gtin>7900121130958</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590876955</g:id>
@@ -103845,7 +104002,8 @@
       <g:color>Creme Arcanjo</g:color>
       <g:gtin>7900121130965</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877075</g:id>
@@ -103864,7 +104022,8 @@
       <g:color>Magenta</g:color>
       <g:gtin>7900121131016</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877080</g:id>
@@ -103883,7 +104042,8 @@
       <g:color>Magenta</g:color>
       <g:gtin>7900121131023</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877091</g:id>
@@ -103902,7 +104062,8 @@
       <g:color>Magenta</g:color>
       <g:gtin>7900121131030</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877102</g:id>
@@ -103921,7 +104082,8 @@
       <g:color>Magenta</g:color>
       <g:gtin>7900121131047</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877161</g:id>
@@ -103940,7 +104102,8 @@
       <g:color>Verde Alvorada</g:color>
       <g:gtin>7900121130972</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877170</g:id>
@@ -103959,7 +104122,8 @@
       <g:color>Verde Alvorada</g:color>
       <g:gtin>7900121130989</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877173</g:id>
@@ -103978,7 +104142,8 @@
       <g:color>Verde Alvorada</g:color>
       <g:gtin>7900121130996</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877187</g:id>
@@ -103997,7 +104162,8 @@
       <g:color>Verde Alvorada</g:color>
       <g:gtin>7900121131009</g:gtin>
       
-      
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1590877291</g:id>
@@ -104019,6 +104185,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104041,6 +104208,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104063,6 +104231,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104085,6 +104254,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104107,6 +104277,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104129,6 +104300,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104152,6 +104324,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104175,6 +104348,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104198,6 +104372,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104221,6 +104396,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104244,6 +104420,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104267,6 +104444,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Jeans</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>RASPADINHA</g:product_type>
     </item>
     <item>
@@ -104354,6 +104532,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1594206704</g:id>
@@ -104374,6 +104554,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1594206715</g:id>
@@ -104394,6 +104576,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1594376811</g:id>
@@ -105795,6 +105979,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603526981</g:id>
@@ -105815,6 +106001,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603526996</g:id>
@@ -105835,6 +106023,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603527022</g:id>
@@ -105855,6 +106045,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603569449</g:id>
@@ -105875,6 +106067,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603569464</g:id>
@@ -105895,6 +106089,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603569511</g:id>
@@ -105915,6 +106111,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603569545</g:id>
@@ -105935,6 +106133,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603569565</g:id>
@@ -105955,6 +106155,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1603569576</g:id>
@@ -105975,6 +106177,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1604700038</g:id>
@@ -106084,6 +106288,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714681</g:id>
@@ -106105,6 +106310,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714684</g:id>
@@ -106126,6 +106332,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714689</g:id>
@@ -106147,6 +106354,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714882</g:id>
@@ -106168,6 +106376,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714934</g:id>
@@ -106189,6 +106398,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714954</g:id>
@@ -106210,6 +106420,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604714971</g:id>
@@ -106231,6 +106442,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 20% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1604715452</g:id>
@@ -106275,7 +106487,7 @@
       <g:title>Bermuda Moletom Lb Branco (G / Branco)</g:title>
       <g:description>Ref.: 12724306-BBB NCM alterado conforme A.R. número 8507</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>399.00 BRL</g:price>
       
@@ -107180,6 +107392,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1605072272</g:id>
@@ -107202,6 +107415,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1605072295</g:id>
@@ -107224,6 +107438,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1605072318</g:id>
@@ -107246,6 +107461,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1605073809</g:id>
@@ -107438,6 +107654,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230857</g:id>
@@ -107458,6 +107676,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230864</g:id>
@@ -107478,6 +107698,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230868</g:id>
@@ -107498,6 +107720,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230971</g:id>
@@ -107518,6 +107742,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230979</g:id>
@@ -107538,6 +107764,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230982</g:id>
@@ -107558,6 +107786,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606230991</g:id>
@@ -107578,6 +107808,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231136</g:id>
@@ -107598,6 +107830,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231141</g:id>
@@ -107618,6 +107852,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231144</g:id>
@@ -107638,6 +107874,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231150</g:id>
@@ -107658,6 +107896,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231269</g:id>
@@ -107678,6 +107918,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231275</g:id>
@@ -107698,6 +107940,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231277</g:id>
@@ -107718,6 +107962,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231281</g:id>
@@ -107738,6 +107984,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231370</g:id>
@@ -107758,6 +108006,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231400</g:id>
@@ -107778,6 +108028,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231441</g:id>
@@ -107798,6 +108050,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231454</g:id>
@@ -107818,6 +108072,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231569</g:id>
@@ -107838,6 +108094,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231589</g:id>
@@ -107858,6 +108116,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231596</g:id>
@@ -107878,6 +108138,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231604</g:id>
@@ -107898,6 +108160,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231789</g:id>
@@ -107918,6 +108182,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231802</g:id>
@@ -107938,6 +108204,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231815</g:id>
@@ -107958,6 +108226,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231910</g:id>
@@ -107978,6 +108248,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231924</g:id>
@@ -107998,6 +108270,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606231934</g:id>
@@ -108018,6 +108292,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240319</g:id>
@@ -108039,6 +108315,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240352</g:id>
@@ -108060,6 +108338,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240361</g:id>
@@ -108081,6 +108361,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240378</g:id>
@@ -108102,6 +108384,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240402</g:id>
@@ -108123,6 +108407,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240413</g:id>
@@ -108144,6 +108430,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240554</g:id>
@@ -108164,6 +108452,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240564</g:id>
@@ -108184,6 +108474,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240586</g:id>
@@ -108204,6 +108496,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240603</g:id>
@@ -108224,6 +108518,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240812</g:id>
@@ -108244,6 +108540,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240834</g:id>
@@ -108264,6 +108562,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240845</g:id>
@@ -108284,6 +108584,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240857</g:id>
@@ -108304,6 +108606,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240943</g:id>
@@ -108324,6 +108628,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240954</g:id>
@@ -108344,6 +108650,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240965</g:id>
@@ -108364,6 +108672,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606240978</g:id>
@@ -108384,6 +108694,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1606241128</g:id>
@@ -108406,6 +108718,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
@@ -108429,6 +108742,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
@@ -108452,6 +108766,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
@@ -108475,6 +108790,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
@@ -108498,6 +108814,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
@@ -108521,6 +108838,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Boardshorts</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>CALIGRAFITTI</g:product_type>
     </item>
     <item>
@@ -108583,6 +108901,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607353753</g:id>
@@ -108603,6 +108923,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607353766</g:id>
@@ -108623,6 +108945,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607353780</g:id>
@@ -108643,6 +108967,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607354062</g:id>
@@ -108663,6 +108989,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607354067</g:id>
@@ -108683,6 +109011,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607354079</g:id>
@@ -108703,6 +109033,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607354088</g:id>
@@ -108723,6 +109055,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607354295</g:id>
@@ -108831,6 +109165,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607366038</g:id>
@@ -108851,6 +109187,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607366047</g:id>
@@ -108871,6 +109209,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607366058</g:id>
@@ -108891,6 +109231,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607366067</g:id>
@@ -108911,6 +109253,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607366075</g:id>
@@ -108931,6 +109275,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607367313</g:id>
@@ -109221,6 +109567,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607600983</g:id>
@@ -109241,6 +109589,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607600994</g:id>
@@ -109261,6 +109611,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607609930</g:id>
@@ -109281,6 +109633,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607609934</g:id>
@@ -109301,6 +109655,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607609943</g:id>
@@ -109321,6 +109677,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607609946</g:id>
@@ -109341,6 +109699,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610052</g:id>
@@ -109361,6 +109721,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610054</g:id>
@@ -109381,6 +109743,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610069</g:id>
@@ -109401,6 +109765,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610070</g:id>
@@ -109421,6 +109787,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610918</g:id>
@@ -109441,6 +109809,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610931</g:id>
@@ -109461,6 +109831,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610932</g:id>
@@ -109481,6 +109853,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607610934</g:id>
@@ -109501,6 +109875,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607617850</g:id>
@@ -109521,6 +109897,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607617856</g:id>
@@ -109541,6 +109919,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607617862</g:id>
@@ -109561,6 +109941,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607617867</g:id>
@@ -109581,6 +109963,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618018</g:id>
@@ -109601,6 +109985,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618023</g:id>
@@ -109621,6 +110007,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618029</g:id>
@@ -109641,6 +110029,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618041</g:id>
@@ -109661,6 +110051,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618171</g:id>
@@ -109681,6 +110073,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618189</g:id>
@@ -109701,6 +110095,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618192</g:id>
@@ -109721,6 +110117,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618195</g:id>
@@ -109741,6 +110139,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618315</g:id>
@@ -109761,6 +110161,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618319</g:id>
@@ -109781,6 +110183,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618324</g:id>
@@ -109801,6 +110205,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618327</g:id>
@@ -109821,6 +110227,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618436</g:id>
@@ -109841,6 +110249,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618440</g:id>
@@ -109861,6 +110271,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618455</g:id>
@@ -109881,6 +110293,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1607618464</g:id>
@@ -109901,6 +110315,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1608745811</g:id>
@@ -111069,6 +111485,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1608935707</g:id>
@@ -111090,6 +111507,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1608935752</g:id>
@@ -111111,6 +111529,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1608935797</g:id>
@@ -111132,6 +111551,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1608952650</g:id>
@@ -111678,6 +112098,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609058441</g:id>
@@ -111699,6 +112120,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609058451</g:id>
@@ -111720,6 +112142,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609058463</g:id>
@@ -111741,6 +112164,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609058482</g:id>
@@ -111762,6 +112186,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609058497</g:id>
@@ -111783,6 +112208,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609059973</g:id>
@@ -111980,6 +112406,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609117183</g:id>
@@ -112001,6 +112428,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609117191</g:id>
@@ -112022,6 +112450,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609117201</g:id>
@@ -112043,6 +112472,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1609134024</g:id>
@@ -112903,9 +113333,6 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Boxfit</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
     </item>
@@ -112928,9 +113355,6 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Boxfit</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
     </item>
@@ -112953,9 +113377,6 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Boxfit</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
     </item>
@@ -112978,9 +113399,6 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
-      <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Boxfit</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
       <g:product_type>Fidelidad</g:product_type>
     </item>
@@ -112994,7 +113412,7 @@
       <g:price>179.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-oversized-costas-la-rosa-negra-preto?variant=1612396409</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722833x_preto_1-50df49d7b5866fd56317912206812292-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722833x_preto_5-4a6b0a9844eaba503f17912206877776-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>372084079</g:item_group_id>
       <g:size>G1</g:size>
@@ -113003,8 +113421,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1612396418</g:id>
@@ -113016,7 +113435,7 @@
       <g:price>179.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-oversized-costas-la-rosa-negra-preto?variant=1612396418</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722833x_preto_1-50df49d7b5866fd56317912206812292-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722833x_preto_5-4a6b0a9844eaba503f17912206877776-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>372084079</g:item_group_id>
       <g:size>G2</g:size>
@@ -113025,8 +113444,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1612396429</g:id>
@@ -113038,7 +113458,7 @@
       <g:price>179.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-oversized-costas-la-rosa-negra-preto?variant=1612396429</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722833x_preto_1-50df49d7b5866fd56317912206812292-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722833x_preto_5-4a6b0a9844eaba503f17912206877776-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>372084079</g:item_group_id>
       <g:size>G3</g:size>
@@ -113047,8 +113467,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1613724276</g:id>
@@ -113318,6 +113739,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1614199924</g:id>
@@ -113339,6 +113761,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1614199942</g:id>
@@ -113360,6 +113783,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1614199958</g:id>
@@ -113381,6 +113805,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1618355899</g:id>
@@ -113498,7 +113923,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-marrom-expresso?variant=1618772898</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_1-d960794aaabf403e8f17919955493633-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_2-7bef099e1f4c914a1b17919955514158-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175498</g:item_group_id>
       <g:size>P</g:size>
@@ -113507,6 +113932,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1618772902</g:id>
@@ -113518,7 +113945,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-marrom-expresso?variant=1618772902</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_1-d960794aaabf403e8f17919955493633-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_2-7bef099e1f4c914a1b17919955514158-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175498</g:item_group_id>
       <g:size>M</g:size>
@@ -113527,6 +113954,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1618772904</g:id>
@@ -113538,7 +113967,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-marrom-expresso?variant=1618772904</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_1-d960794aaabf403e8f17919955493633-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_2-7bef099e1f4c914a1b17919955514158-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175498</g:item_group_id>
       <g:size>G</g:size>
@@ -113547,6 +113976,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1618772913</g:id>
@@ -113558,7 +113989,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-marrom-expresso?variant=1618772913</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_1-d960794aaabf403e8f17919955493633-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_marromexpresso_2-7bef099e1f4c914a1b17919955514158-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175498</g:item_group_id>
       <g:size>GG</g:size>
@@ -113567,6 +113998,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1618773162</g:id>
@@ -113578,7 +114011,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-preto?variant=1618773162</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_1-5eb5f3e5297873cae017919955653382-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_4-c9462a3adfc5bff60e17919955706855-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175550</g:item_group_id>
       <g:size>P</g:size>
@@ -113587,6 +114020,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>betin</g:product_type>
     </item>
     <item>
@@ -113599,7 +114034,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-preto?variant=1618773166</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_1-5eb5f3e5297873cae017919955653382-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_4-c9462a3adfc5bff60e17919955706855-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175550</g:item_group_id>
       <g:size>M</g:size>
@@ -113608,6 +114043,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>betin</g:product_type>
     </item>
     <item>
@@ -113620,7 +114057,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-preto?variant=1618773170</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_1-5eb5f3e5297873cae017919955653382-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_4-c9462a3adfc5bff60e17919955706855-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175550</g:item_group_id>
       <g:size>G</g:size>
@@ -113629,6 +114066,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>betin</g:product_type>
     </item>
     <item>
@@ -113641,7 +114080,7 @@
       <g:price>159.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/camiseta-regular-frente-more-core-flocad-preto?variant=1618773174</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_1-5eb5f3e5297873cae017919955653382-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722847_preto_4-c9462a3adfc5bff60e17919955706855-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>374175550</g:item_group_id>
       <g:size>GG</g:size>
@@ -113650,6 +114089,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>betin</g:product_type>
     </item>
     <item>
@@ -113671,6 +114112,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619010202</g:id>
@@ -113691,6 +114134,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619010210</g:id>
@@ -113711,6 +114156,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619026252</g:id>
@@ -113731,6 +114178,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619026256</g:id>
@@ -113751,6 +114200,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619026263</g:id>
@@ -113771,6 +114222,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619026279</g:id>
@@ -113791,6 +114244,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619026295</g:id>
@@ -113811,6 +114266,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619026302</g:id>
@@ -113831,6 +114288,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619027281</g:id>
@@ -113851,6 +114310,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619027303</g:id>
@@ -113871,6 +114332,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619027315</g:id>
@@ -113891,6 +114354,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619027330</g:id>
@@ -113911,6 +114376,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619027343</g:id>
@@ -113931,6 +114398,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619027353</g:id>
@@ -113951,6 +114420,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619028295</g:id>
@@ -113971,6 +114442,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619028306</g:id>
@@ -113991,6 +114464,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619028309</g:id>
@@ -114011,6 +114486,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619028321</g:id>
@@ -114031,6 +114508,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619028330</g:id>
@@ -114051,6 +114530,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619028335</g:id>
@@ -114071,6 +114552,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1619041791</g:id>
@@ -114212,6 +114695,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1620941560</g:id>
@@ -114233,6 +114718,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1620941561</g:id>
@@ -114254,6 +114741,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1620941563</g:id>
@@ -114275,6 +114764,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1620941564</g:id>
@@ -114296,6 +114787,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1620941577</g:id>
@@ -114317,6 +114810,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1620941836</g:id>
@@ -115506,6 +116001,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621586168</g:id>
@@ -115528,6 +116024,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621586172</g:id>
@@ -115550,6 +116047,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621586174</g:id>
@@ -115572,6 +116070,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621586244</g:id>
@@ -116539,6 +117038,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621591875</g:id>
@@ -116560,6 +117060,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621591880</g:id>
@@ -116581,6 +117082,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621591883</g:id>
@@ -116602,6 +117104,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621591887</g:id>
@@ -116623,6 +117126,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621591889</g:id>
@@ -116644,6 +117148,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621592250</g:id>
@@ -116666,6 +117171,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621592254</g:id>
@@ -116688,6 +117194,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621592258</g:id>
@@ -116710,6 +117217,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621592261</g:id>
@@ -116732,6 +117240,7 @@
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 40% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1621592569</g:id>
@@ -117242,6 +117751,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622022972</g:id>
@@ -117262,6 +117773,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622023022</g:id>
@@ -117282,6 +117795,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622023067</g:id>
@@ -117302,6 +117817,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622023107</g:id>
@@ -117322,6 +117839,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622023186</g:id>
@@ -117342,6 +117861,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622049583</g:id>
@@ -117361,6 +117882,8 @@
       <g:gtin>7900121130606</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622049749</g:id>
@@ -117380,6 +117903,8 @@
       <g:gtin>7900121130613</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622049897</g:id>
@@ -117399,6 +117924,8 @@
       <g:gtin>7900121130620</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622050066</g:id>
@@ -117418,6 +117945,8 @@
       <g:gtin>7900121130637</g:gtin>
       
       <g:product_type>Shop</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622054768</g:id>
@@ -117438,6 +117967,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622054851</g:id>
@@ -117458,13 +117989,15 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622054889</g:id>
       <g:title>Box Fit Texturizada Lb Branco (G / Branco)</g:title>
       <g:description>Ref.: 12722628-BBB NCM alterado conforme A.R. número 8507</g:description>
       <g:availability>in stock</g:availability>
-      <g:quantity_to_sell_on_facebook>3</g:quantity_to_sell_on_facebook>
+      <g:quantity_to_sell_on_facebook>5</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>299.00 BRL</g:price>
       
@@ -117478,6 +118011,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622054926</g:id>
@@ -117498,6 +118033,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622091052</g:id>
@@ -117518,6 +118055,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622091285</g:id>
@@ -117538,6 +118077,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622091673</g:id>
@@ -117558,6 +118099,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622091773</g:id>
@@ -117578,6 +118121,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622091796</g:id>
@@ -117598,6 +118143,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622091840</g:id>
@@ -117618,6 +118165,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Calças</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622103059</g:id>
@@ -117638,6 +118187,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622103134</g:id>
@@ -117658,6 +118209,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622103185</g:id>
@@ -117678,6 +118231,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622103223</g:id>
@@ -117698,6 +118253,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622104035</g:id>
@@ -117718,6 +118275,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622104062</g:id>
@@ -117738,6 +118297,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622104094</g:id>
@@ -117758,6 +118319,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622104130</g:id>
@@ -117778,6 +118341,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622448534</g:id>
@@ -118113,6 +118678,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622758581</g:id>
@@ -118133,6 +118700,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622758587</g:id>
@@ -118153,6 +118722,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622758610</g:id>
@@ -118173,6 +118744,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622762145</g:id>
@@ -118193,6 +118766,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622762163</g:id>
@@ -118213,13 +118788,15 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622762191</g:id>
       <g:title>Camiseta Regular Costas Cursivo Lb Branco (G / Branco)</g:title>
       <g:description>Ref.: 12722858-BBB Camiseta Masculina MCD T-Shirt Regular Cursivo Linha Branca Coleção Verão 26/27 Meia malha penteada 30/1, 100% algodão. Modelagem regular, logo MCD frontal, estampa cursiva vertical nas costas, gola reforçada em ribana 2x1 e etiqueta lateral. Cor: branco. Tamanhos: P, M, G e GG. Gola: 2 cm; bainhas das mangas e barra: 2,5 cm. Ref.: 1272.2858.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:quantity_to_sell_on_facebook>0</g:quantity_to_sell_on_facebook>
+      <g:availability>in stock</g:availability>
+      <g:quantity_to_sell_on_facebook>4</g:quantity_to_sell_on_facebook>
       <g:condition>new</g:condition>
       <g:price>159.00 BRL</g:price>
       
@@ -118233,6 +118810,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622762200</g:id>
@@ -118253,6 +118832,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622762577</g:id>
@@ -118295,6 +118876,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622763523</g:id>
@@ -118316,6 +118898,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622763536</g:id>
@@ -118337,6 +118920,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622763546</g:id>
@@ -118358,6 +118942,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622765101</g:id>
@@ -118753,6 +119338,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Regatas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622778457</g:id>
@@ -118774,6 +119361,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Regatas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622778466</g:id>
@@ -118795,6 +119384,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Regatas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622778473</g:id>
@@ -118816,6 +119407,8 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Regatas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622789731</g:id>
@@ -119272,6 +119865,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622795505</g:id>
@@ -119293,6 +119887,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622795515</g:id>
@@ -119314,6 +119909,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622795528</g:id>
@@ -119335,6 +119931,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622797363</g:id>
@@ -119536,6 +120133,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622799291</g:id>
@@ -119557,6 +120155,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622799307</g:id>
@@ -119578,6 +120177,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622799335</g:id>
@@ -119599,6 +120199,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622800014</g:id>
@@ -119610,7 +120211,7 @@
       <g:price>379.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/t-shirt-especial-varejo-oversized-mcd-chumbo-1mrih?variant=1622800014</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_chumbo_1-c7eee0f071727d621317925228257806-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_chumbo_2-98da4fa495595a25f517925228309199-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>375479317</g:item_group_id>
       <g:size>G1</g:size>
@@ -119619,8 +120220,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622800033</g:id>
@@ -119632,7 +120234,7 @@
       <g:price>379.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/t-shirt-especial-varejo-oversized-mcd-chumbo-1mrih?variant=1622800033</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_chumbo_1-c7eee0f071727d621317925228257806-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_chumbo_2-98da4fa495595a25f517925228309199-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>375479317</g:item_group_id>
       <g:size>G2</g:size>
@@ -119641,8 +120243,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622800058</g:id>
@@ -119654,7 +120257,7 @@
       <g:price>379.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/t-shirt-especial-varejo-oversized-mcd-chumbo-1mrih?variant=1622800058</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_chumbo_1-c7eee0f071727d621317925228257806-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_chumbo_2-98da4fa495595a25f517925228309199-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>375479317</g:item_group_id>
       <g:size>G3</g:size>
@@ -119663,8 +120266,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622800756</g:id>
@@ -119676,7 +120280,7 @@
       <g:price>379.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/t-shirt-especial-varejo-oversized-mcd-mostarda-u2p8z?variant=1622800756</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_mostarda_1-1cb94af74aa369a49917925228546290-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_mostarda_2-0fd8b91b85485bae6317925228575475-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>375479533</g:item_group_id>
       <g:size>G1</g:size>
@@ -119685,8 +120289,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622800785</g:id>
@@ -119698,7 +120303,7 @@
       <g:price>379.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/t-shirt-especial-varejo-oversized-mcd-mostarda-u2p8z?variant=1622800785</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_mostarda_1-1cb94af74aa369a49917925228546290-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_mostarda_2-0fd8b91b85485bae6317925228575475-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>375479533</g:item_group_id>
       <g:size>G2</g:size>
@@ -119707,8 +120312,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622800800</g:id>
@@ -119720,7 +120326,7 @@
       <g:price>379.00 BRL</g:price>
       
       <g:link>https://mcdbrasil.com/produtos/t-shirt-especial-varejo-oversized-mcd-mostarda-u2p8z?variant=1622800800</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_mostarda_1-1cb94af74aa369a49917925228546290-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/007/503/951/products/12722026vx_mostarda_2-0fd8b91b85485bae6317925228575475-1024-1024.jpg</g:image_link>
       <g:brand>Mcd</g:brand>
       <g:item_group_id>375479533</g:item_group_id>
       <g:size>G3</g:size>
@@ -119729,8 +120335,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
       <g:product_type>Oversize</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622803914</g:id>
@@ -119752,7 +120359,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
-      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1622803934</g:id>
@@ -119774,7 +120380,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
-      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1622803951</g:id>
@@ -119796,7 +120401,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
-      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1622803967</g:id>
@@ -119818,7 +120422,6 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Bermudas</g:product_type>
       <g:product_type>Shorts</g:product_type>
-      <g:product_type>Outlet</g:product_type>
     </item>
     <item>
       <g:id>1622804575</g:id>
@@ -120019,6 +120622,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622806097</g:id>
@@ -120039,6 +120644,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622806113</g:id>
@@ -120059,6 +120666,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622806131</g:id>
@@ -120079,6 +120688,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622806367</g:id>
@@ -120204,7 +120815,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type> Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824153</g:id>
@@ -120225,7 +120838,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type> Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824179</g:id>
@@ -120246,7 +120861,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type> Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824210</g:id>
@@ -120267,7 +120884,9 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type> Especiais</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824761</g:id>
@@ -120288,7 +120907,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824788</g:id>
@@ -120309,7 +120929,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824799</g:id>
@@ -120330,7 +120951,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622824817</g:id>
@@ -120351,7 +120973,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
-      <g:product_type>Outlet</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622826111</g:id>
@@ -120637,6 +121260,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622834721</g:id>
@@ -120658,6 +121282,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622834732</g:id>
@@ -120679,6 +121304,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622834799</g:id>
@@ -120700,6 +121326,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622835914</g:id>
@@ -120741,6 +121368,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622836253</g:id>
@@ -120762,6 +121390,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622836270</g:id>
@@ -120783,6 +121412,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622836278</g:id>
@@ -120804,6 +121434,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>Outlet</g:product_type>
+      <g:product_type>PROMO 30% - Categoria</g:product_type>
     </item>
     <item>
       <g:id>1622837601</g:id>
@@ -120824,6 +121455,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622837624</g:id>
@@ -120844,6 +121477,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622837634</g:id>
@@ -120864,6 +121499,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1622837665</g:id>
@@ -120884,6 +121521,8 @@
       
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
+      <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
     </item>
     <item>
       <g:id>1625213730</g:id>
@@ -120905,6 +121544,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -120927,6 +121567,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -120949,6 +121590,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -120971,6 +121613,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
     <item>
@@ -120993,6 +121636,7 @@
       <g:product_type>Shop</g:product_type>
       <g:product_type>Camisetas</g:product_type>
       <g:product_type>LINHAS ESPECIAIS</g:product_type>
+      <g:product_type>Fidelidad</g:product_type>
       <g:product_type>Merch</g:product_type>
     </item>
   </channel>
