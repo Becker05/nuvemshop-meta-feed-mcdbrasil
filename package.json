@@ -5,7 +5,8 @@
   "description": "Gerador de feed XML da Meta a partir da API da Nuvemshop",
   "type": "module",
   "scripts": {
-    "generate": "node src/index.js"
+    "generate": "node src/index.js",
+    "test": "node --test"
   },
   "engines": {
     "node": ">=18"

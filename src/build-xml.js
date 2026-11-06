@@ -35,6 +35,9 @@ function itemToXml(item) {
       ${item.gtin ? `<g:gtin>${escapeXml(item.gtin)}</g:gtin>` : ""}
       ${item.identifierExists ? `<g:identifier_exists>${escapeXml(item.identifierExists)}</g:identifier_exists>` : ""}
       ${productTypeLines}
+      ${item.customLabel0 ? `<g:custom_label_0>${escapeXml(item.customLabel0)}</g:custom_label_0>` : ""}
+      ${item.customLabel1 ? `<g:custom_label_1>${escapeXml(item.customLabel1)}</g:custom_label_1>` : ""}
+      ${item.customLabel2 ? `<g:custom_label_2>${escapeXml(item.customLabel2)}</g:custom_label_2>` : ""}
     </item>
   `.trim();
 }

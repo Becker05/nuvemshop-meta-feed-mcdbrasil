@@ -205,11 +205,56 @@ function getBrand(product) {
   );
 }
 
+// Categorias de desconto ocultas (ex.: "PROMO 30% - Categoria") não descrevem o produto: ficam fora do product_type.
+const HIDDEN_CATEGORY_REGEX = new RegExp(process.env.HIDDEN_CATEGORY_REGEX || "^PROMO\\b|teste", "i");
+// Categorias de campanha (ex.: "Oferta Relampago", "R$ 59", "Black Friday") viram custom_label_0 / custom_label_1,
+// para os conjuntos de produtos do Meta filtrarem a ação sem lista manual.
+const CAMPAIGN_CATEGORY_REGEX = new RegExp(process.env.CAMPAIGN_CATEGORY_REGEX || "^(oferta|black friday|bf\\b)", "i");
+
+function categoryNames(product) {
+  if (!Array.isArray(product.categories)) return [];
+  return product.categories.map((cat) => ({ id: cat.id, parent: cat.parent, name: getLocalizedValue(cat.name) }))
+    .filter((c) => c.name);
+}
+
+// Um único product_type, no formato de caminho que o Meta e o Google esperam ("Shop > Camisetas > T-Shirts"):
+// a categoria mais profunda fora de PROMO e de campanha.
 function getProductTypes(product) {
-  if (!Array.isArray(product.categories) || product.categories.length === 0) return [];
-  return product.categories
-    .map((cat) => getLocalizedValue(cat.name))
-    .filter(Boolean);
+  const cats = categoryNames(product).filter((c) => !HIDDEN_CATEGORY_REGEX.test(c.name) && !CAMPAIGN_CATEGORY_REGEX.test(c.name));
+  const byId = new Map(cats.map((c) => [c.id, c]));
+  const pathOf = (c) => {
+    const parts = [];
+    let cur = c;
+    for (let i = 0; cur && i < 6; i += 1) { parts.unshift(cur.name); cur = byId.get(cur.parent); }
+    return parts;
+  };
+  const paths = cats.map(pathOf).sort((a, b) => b.length - a.length);
+  return paths.length ? [paths[0].join(" > ")] : [];
+}
+
+// Saúde da grade: anúncio de produto com 1 tamanho converte pouco. "grade_ok" = 2+ tamanhos e pelo menos metade da grade
+// com estoque; "grade_quebrada" = tem estoque, mas abaixo disso. Use no conjunto do Meta: custom_label_2 = grade_ok.
+const MIN_SIZES = Number(process.env.MIN_SIZES_IN_STOCK || 2);
+function getGradeLabel(product) {
+  const vs = Array.isArray(product.variants) && product.variants.length > 0 ? product.variants : [product];
+  const ok = vs.filter((v) => Number(firstDefined(v.stock, v.inventory, 0)) > 0).length;
+  if (ok === 0) return "sem_estoque";
+  if (vs.length === 1) return "grade_ok";
+  return ok >= MIN_SIZES && ok >= vs.length / 2 ? "grade_ok" : "grade_quebrada";
+}
+
+// Rótulo sem acento ("Oferta Relâmpago" vira "Oferta Relampago"), igual ao do feed suplementar de 30/10:
+// os conjuntos de produtos do Meta filtram pelo texto exato e não podem mudar na troca de fonte.
+function toLabel(name) {
+  return name ? name.normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim() : null;
+}
+
+function getCampaignLabels(product) {
+  const all = categoryNames(product);
+  const camp = all.find((c) => CAMPAIGN_CATEGORY_REGEX.test(c.name) && !c.parent) || all.find((c) => CAMPAIGN_CATEGORY_REGEX.test(c.name));
+  if (!camp) return {};
+  const sub = all.find((c) => c.parent === camp.id);
+  return { customLabel0: toLabel(camp.name), customLabel1: sub ? toLabel(sub.name) : null };
 }
 
 function buildBaseItem(product) {
@@ -227,7 +272,9 @@ function buildBaseItem(product) {
     brand,
     condition: "new",
     itemGroupId: String(product.id),
-    productTypes
+    productTypes,
+    customLabel2: getGradeLabel(product),
+    ...getCampaignLabels(product)
   };
 }
 
@@ -254,7 +301,10 @@ function mapSimpleProduct(product, baseItem) {
     brand: baseItem.brand,
     itemGroupId: null,
     identifierExists: "no",
-    productTypes: baseItem.productTypes
+    productTypes: baseItem.productTypes,
+    customLabel0: baseItem.customLabel0,
+    customLabel1: baseItem.customLabel1,
+    customLabel2: baseItem.customLabel2
   };
 }
 
@@ -287,7 +337,10 @@ function mapVariantProduct(product, baseItem, variant) {
     additionalImageLinks,
     brand: baseItem.brand,
     itemGroupId: baseItem.itemGroupId,
-    productTypes: baseItem.productTypes
+    productTypes: baseItem.productTypes,
+    customLabel0: baseItem.customLabel0,
+    customLabel1: baseItem.customLabel1,
+    customLabel2: baseItem.customLabel2
   };
 }
 
