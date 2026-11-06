@@ -23,6 +23,11 @@ test("labels de campanha sem acento, product_type em caminho sem PROMO", () => {
   assert.equal(item.customLabel0, "Oferta Relampago");
   assert.equal(item.customLabel1, "R$ 59");
   assert.deepEqual(item.productTypes, ["Shop > Camisetas > T-Shirts"]);
+  // faixa sem parent apontando para a campanha (caso real do feed de 06/11)
+  const solta = cats.map((c) => (c.id === 11 ? { ...c, parent: 99 } : c));
+  const [item2] = mapProductsToFeedItems([product(4, [variant(103, 5)], solta)]);
+  assert.equal(item2.customLabel1, "R$ 59");
+  assert.deepEqual(item2.productTypes, ["Shop > Camisetas > T-Shirts"]);
 });
 
 test("saúde da grade", () => {

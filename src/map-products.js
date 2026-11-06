@@ -210,17 +210,20 @@ const HIDDEN_CATEGORY_REGEX = new RegExp(process.env.HIDDEN_CATEGORY_REGEX || "^
 // Categorias de campanha (ex.: "Oferta Relampago", "R$ 59", "Black Friday") viram custom_label_0 / custom_label_1,
 // para os conjuntos de produtos do Meta filtrarem a ação sem lista manual.
 const CAMPAIGN_CATEGORY_REGEX = new RegExp(process.env.CAMPAIGN_CATEGORY_REGEX || "^(oferta|black friday|bf\\b)", "i");
+// Subcategoria da campanha (faixa de preço), usada quando a árvore da Nuvemshop não liga a faixa à categoria da campanha.
+const SUBCAMPAIGN_CATEGORY_REGEX = new RegExp(process.env.SUBCAMPAIGN_CATEGORY_REGEX || "^R\\$\\s*\\d", "i");
+let loggedSub = false;
 
 function categoryNames(product) {
   if (!Array.isArray(product.categories)) return [];
-  return product.categories.map((cat) => ({ id: cat.id, parent: cat.parent, name: getLocalizedValue(cat.name) }))
+  return product.categories.map((cat) => ({ id: cat.id, parent: cat.parent, subcategories: cat.subcategories, name: getLocalizedValue(cat.name) }))
     .filter((c) => c.name);
 }
 
 // Um único product_type, no formato de caminho que o Meta e o Google esperam ("Shop > Camisetas > T-Shirts"):
 // a categoria mais profunda fora de PROMO e de campanha.
 function getProductTypes(product) {
-  const cats = categoryNames(product).filter((c) => !HIDDEN_CATEGORY_REGEX.test(c.name) && !CAMPAIGN_CATEGORY_REGEX.test(c.name));
+  const cats = categoryNames(product).filter((c) => !HIDDEN_CATEGORY_REGEX.test(c.name) && !CAMPAIGN_CATEGORY_REGEX.test(c.name) && !SUBCAMPAIGN_CATEGORY_REGEX.test(c.name));
   const byId = new Map(cats.map((c) => [c.id, c]));
   const pathOf = (c) => {
     const parts = [];
@@ -253,7 +256,14 @@ function getCampaignLabels(product) {
   const all = categoryNames(product);
   const camp = all.find((c) => CAMPAIGN_CATEGORY_REGEX.test(c.name) && !c.parent) || all.find((c) => CAMPAIGN_CATEGORY_REGEX.test(c.name));
   if (!camp) return {};
-  const sub = all.find((c) => c.parent === camp.id);
+  // ponytail: no feed de 06/11 as faixas "R$ 59/99/149/199" vieram sem parent igual ao id da "Oferta Relâmpago";
+  // o fallback pega a faixa de preço pelo nome. Categoria de campanha com subcategoria de outro formato: ajustar o regex.
+  const sub = all.find((c) => String(c.parent) === String(camp.id) || (camp.subcategories || []).map(String).includes(String(c.id)))
+    || all.find((c) => c !== camp && SUBCAMPAIGN_CATEGORY_REGEX.test(c.name));
+  if (sub && !loggedSub) {
+    loggedSub = true;
+    console.log(`Subcategoria de campanha: "${sub.name}" (parent ${sub.parent}) de "${camp.name}" (id ${camp.id}, parent ${camp.parent})`);
+  }
   return { customLabel0: toLabel(camp.name), customLabel1: sub ? toLabel(sub.name) : null };
 }
 
